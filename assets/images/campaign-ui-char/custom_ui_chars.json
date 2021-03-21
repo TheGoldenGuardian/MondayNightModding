@@ -1,0 +1,54 @@
+{
+  "bf": {
+    "like": "bf",
+    "defaultGraphics": true
+  },
+  "bf-kill": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
+  "xoxo": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
+  "doomkid": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
+  "gf": {
+    "like": "gf",
+    "defaultGraphics": true
+  },
+  "dad": {
+    "like": "dad",
+    "defaultGraphics": true
+  },
+  "mom": {
+    "like": "mom",
+    "defaultGraphics": true
+  },
+  "spooky": {
+    "like": "spooky",
+    "defaultGraphics": true
+  },
+  "pico": {
+    "like": "pico",
+    "defaultGraphics": true
+  },
+  "annie": {
+    "like": "pico",
+    "defaultGraphics": false
+  },
+  "parents-christmas": {
+    "like": "parents-christmas",
+    "defaultGraphics": true
+  },
+  "senpai":{
+    "like": "senpai",
+    "defaultGraphics": true
+  },
+  "unknown": {
+    "like": "dad",
+    "defaultGraphics": false
+  },
+}

@@ -1,0 +1,130 @@
+{
+  "tankman": {
+    "like": "pico",
+    "icons": [8,9]
+  },
+  "tankman-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1]
+  },
+  "speakers": {
+    "like": "gf",
+    "icons": [10,11]
+  },
+  "bf-dog": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "doomkid": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "xoxo": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-dog-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "bf-steve": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "jeico": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "gato": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-black": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-swag": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-alt": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-hoodie": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-gunmic": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-gun": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-gun-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "bf-kill": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-kill-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "bf-goofy": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-neo": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "crew": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "pico-angry": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "pico-furry": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "annie": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "annie-tall": {
+    "like": "monster",
+    "icons": [19,20]
+  },
+  "gambino-pixel": {
+    "like": "spooky",
+    "icons": [2,3]
+  },
+  "king": {
+    "like": "dad",
+    "icons": [10,11]
+  },
+  "loona": {
+    "like": "mom",
+    "icons": [6,7]
+  },
+  "gf-dog": {
+    "like": "gf",
+    "icons": [16,16]
+  },
+  "gf-dog-christmas": {
+    "like": "gf",
+    "icons": [16,16]
+  },
+  "gf-dog-car": {
+    "like": "gf-car",
+    "icons": [16,16]
+  }
+}
