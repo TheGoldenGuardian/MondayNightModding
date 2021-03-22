@@ -5,7 +5,7 @@
   },
   "tankman-pixel": {
     "like": "bf-pixel",
-    "icons": [0,1]
+    "icons": [8,9]
   },
   "speakers": {
     "like": "gf",
@@ -108,7 +108,7 @@
     "icons": [4,5]
   },
   "annie-tall": {
-    "like": "monster",
+    "like": "newmonster",
     "icons": [19,20]
   },
   "gambino-pixel": {

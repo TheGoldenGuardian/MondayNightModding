@@ -1,6 +1,6 @@
 {
      "song" : {
-         "player1" : "bf-christmas"
+         "player1" : "bf"
         ,"player2" : "annie-tall"
         ,"notes" : [
              {
@@ -4767,8 +4767,8 @@
         ,"uiType" : "normal"
         ,"needsVoices" : true
         ,"sections" : 0
-        ,"stage" : "mallSpooky"
+        ,"stage" : "town"
         ,"bpm" : 140
-        ,"gf" : "gf-christmas"
+        ,"gf" : "gf"
     }
 }

@@ -5,11 +5,11 @@
     ["week2 select", "Spookeez", "South", "Shiver"],
     ["Week 3 press", "Pico", "Philly", "Blammed", "School", "Ex", "Savage"],
     ["Week 4 press", "Satin-Panties", "High", "Milf"],
-    ["week 5", "Cocoa", "Eggnog"],
+    ["week 5", "literally unplayable", "it'll crash your game", "don't choose this"],
     ["Week 6", "Senpai", "Roses", "Thorns"],
-	["Week 3 press", "Good-Enough", "Lover", "Tug-of-War"],
-	["WEEK1 select", "Root-of-All-Evil"],
-	["WEEK1 select", "Welcome-To-The-Cum-Zone", "Heir-To-The-Cum-Throne", "Your-Cum-Won't-Last"]
+	["Week 3 press", "Good-Enough", "Lover", "Tug-of-War", "Animal"],
+	["WEEK1 select", "Welcome-To-The-Cum-Zone", "Heir-To-The-Cum-Throne", "Your-Cum-Won't-Last"],
+	["WEEK1 select", "Root-of-All-Evil"]
   ],
   "weekNames": [
     "",
@@ -20,8 +20,8 @@
     "RED SNOW",
     "hating simulator ft. moawling",
 	"Annie Annie",
-	"Hell (WIP)",
-	"The Cum Zone"
+	"The Cum Zone",
+	"Hell (WIP)"
   ],
   "characters": [
     ["dad", "bf", "gf"],
@@ -32,7 +32,7 @@
 		["parents-christmas", "bf", "gf"],
     ["senpai", "bf", "gf"],
 	["annie", "bf", "gf"],
-	["unknown", "doomkid", "gf"],
-	["senpai", "bf", "gf"]
+	["senpai", "bf", "gf"],
+	["unknown", "doomkid", "gf"]
   ]
 }
