@@ -1,6 +1,6 @@
 {
   "tankman": {
-    "like": "pico",
+    "like": "tankman",
     "icons": [8,9]
   },
   "tankman-pixel": {
@@ -12,6 +12,14 @@
     "icons": [10,11]
   },
   "bf-dog": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-dog-car": {
+    "like": "bf-car",
+    "icons": [0,1]
+  },
+  "bf-sad": {
     "like": "bf",
     "icons": [0,1]
   },
@@ -126,5 +134,17 @@
   "gf-dog-car": {
     "like": "gf-car",
     "icons": [16,16]
+  },
+  "bf-refresh": {
+    "like": "bf",
+    "icons": [14,15]
+  },
+  "gf-refresh": {
+    "like": "gf",
+    "icons": [16,16]
+  },
+  "dad-refresh": {
+    "like": "dad",
+    "icons": [12,13]
   }
 }
