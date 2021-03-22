@@ -1,7 +1,7 @@
 {
      "song" : {
          "player1" : "bf-pixel"
-        ,"player2" : "senpai-angry"
+        ,"player2" : "senpai-pissed"
         ,"notes" : [
              {
                  "typeOfSection" : 0
@@ -3568,7 +3568,7 @@
             }
         ]
         ,"isHey" : false
-        ,"cutsceneType" : "none"
+        ,"cutsceneType" : "senpai-pissed"
         ,"isSpooky" : false
         ,"song" : "Your-Cum-Won't-Last"
         ,"validScore" : true

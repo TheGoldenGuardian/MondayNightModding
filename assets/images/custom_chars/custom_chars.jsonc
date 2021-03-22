@@ -146,5 +146,9 @@
   "dad-refresh": {
     "like": "dad",
     "icons": [12,13]
+  },
+  "senpai-pissed": {
+    "like": "senpai-angry",
+    "icons": [22,22]
   }
 }
