@@ -19,6 +19,10 @@
     "like": "bf-car",
     "icons": [0,1]
   },
+  "bf-dog-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
   "bf-sad": {
     "like": "bf",
     "icons": [0,1]
@@ -29,10 +33,6 @@
   },
   "xoxo": {
     "like": "bf",
-    "icons": [0,1]
-  },
-  "bf-dog-christmas": {
-    "like": "bf-christmas",
     "icons": [0,1]
   },
   "bf-steve": {
@@ -63,6 +63,22 @@
     "like": "bf",
     "icons": [0,1]
   },
+  "bf-hoodie-car": {
+    "like": "bf-car",
+    "icons": [0,1]
+  },
+  "bf-hoodie-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "bf-hoodie-pixel": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "pico-pixel": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
   "bf-gunmic": {
     "like": "bf",
     "icons": [0,1]
@@ -91,6 +107,10 @@
     "like": "bf",
     "icons": [0,1]
   },
+  "bf-jacket": {
+    "like": "bf",
+    "icons": [0,1]
+  },
   "crew": {
     "like": "bf",
     "icons": [0,1]
@@ -98,6 +118,10 @@
   "pico-angry": {
     "like": "pico",
     "icons": [4,5]
+  },
+  "pico-thug": {
+    "like": "pico",
+    "icons": [48,49]
   },
   "pico-furry": {
     "like": "pico",
@@ -150,5 +174,25 @@
   "senpai-pissed": {
     "like": "senpai-angry",
     "icons": [22,22]
-  }
+  },
+  "senpai-ego": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
+  "daft": {
+    "like": "bf-pixel",
+    "icons": [51,51,25]
+  },
+  "punk": {
+    "like": "senpai-angry",
+    "icons": [52,52]
+  },
+  "dallas": {
+    "like": "mom",
+    "icons": [6,7]
+  },
+  "cat": {
+    "like": "pico",
+    "icons": [4,5]
+  },
 }

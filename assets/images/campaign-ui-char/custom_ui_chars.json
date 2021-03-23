@@ -7,6 +7,10 @@
     "like": "bf",
     "defaultGraphics": false
   },
+  "bf-hoodie": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
   "xoxo": {
     "like": "bf",
     "defaultGraphics": false
@@ -51,4 +55,12 @@
     "like": "dad",
     "defaultGraphics": false
   },
+  "blank": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
+  "dallas": {
+    "like": "mom",
+    "defaultGraphics": false
+  }
 }

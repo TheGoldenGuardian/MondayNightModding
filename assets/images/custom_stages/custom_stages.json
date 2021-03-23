@@ -9,5 +9,6 @@
   "town": "philly",
   "mallSpooky": "mallEvil",
   "limo2": "limo",
-  "schoolEmpty": "school"
+  "schoolEmpty": "school",
+  "heist": "limo",
 }
