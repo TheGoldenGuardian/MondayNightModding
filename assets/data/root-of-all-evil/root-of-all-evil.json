@@ -5239,7 +5239,7 @@
         ]
         ,"player2" : "loona"
         ,"isHey" : false
-        ,"cutsceneType" : "none"
+        ,"cutsceneType" : "dialog"
         ,"isSpooky" : false
         ,"song" : "Root-of-All-Evil"
         ,"validScore" : true

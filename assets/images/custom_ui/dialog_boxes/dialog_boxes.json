@@ -13,5 +13,8 @@
   },
   "senpai-ego": {
     "like": "senpai-angry"
+  },
+  "dialog": {
+    "like": "dialog"
   }
 }
