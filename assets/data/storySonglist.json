@@ -4,11 +4,12 @@
     ["WEEK1 select", "Bopeebo", "Fresh", "Dadbattle", "Refresh"],
     ["week2 select", "Pico", "Philly", "Blammed", "School", "Ex", "Savage"],
     ["Week 3 press", "Satin-Panties", "High", "Milf"],
-    ["Week 4 press", "Spookeez", "South", "Shiver"],
+    ["Week 4 press", "Spookeez", "South", "Shiver", "Grinder"],
     ["week 5", "literally unplayable", "it'll crash your game", "don't choose this"],
     ["Week 6", "Senpai", "Roses", "Thorns"],
 	["Week 3 press", "Good-Enough", "Lover", "Tug-of-War", "Animal"],
 	["tutorial selected", "I-Will-Give-You-My-All", "Break-The-Rules", "Donacdum", "It's-Payday"],
+	["WEEK1 select", "Bopeebo-Kazoo", "Fresh-Kazoo", "Dadbattle-Kazoo", "Pico-Kazoo", "Philly-Kazoo", "Blammed-Kazoo", "Spookeez-Kazoo", "South-Kazoo"],
 	["WEEK1 select", "Boyfriend", "Root-of-All-Evil"],
 	["WEEK1 select", "Welcome-To-The-Cum-Zone", "Heir-To-The-Cum-Throne", "Your-Cum-Won't-Last"]
   ],
@@ -21,7 +22,8 @@
     "RED SNOW",
     "hating simulator ft. moawling",
 	"Annie Annie",
-	"The Heist"
+	"The Heist",
+	"Too Kazoo",
 	"Hell (WIP)",
 	"The Cum Zone"
   ],
@@ -35,6 +37,7 @@
     ["senpai", "bf", "gf"],
 	["annie", "bf", "gf"],
 	["dallas", "bf-hoodie", "gf"],
+	["unknown", "bf-kazoo", "gf"],
 	["unknown", "doomkid", "gf"],
 	["senpai", "unknown", "gf"]
   ]

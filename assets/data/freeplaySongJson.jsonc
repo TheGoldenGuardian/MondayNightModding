@@ -27,6 +27,7 @@
          "songs" : [
 			 "Refresh"
             ,"Shiver"
+			,"Grinder"
             ,"School"
             ,"Ex"
             ,"Savage"
@@ -35,6 +36,8 @@
 			,"MTC"
 			,"Harder-Better-Faster-Stronger"
 			,"The-Less-I-Know-The-Better"
+			,"The-Ultimate-Showdown-of-Ultimate-Destiny"
+			,"Rockefeller-Street"
         ]
     },
 	{
@@ -71,6 +74,7 @@
              "Spookeez"
             ,"South"
             ,"Shiver"
+			,"Grinder"
         ]
     },
 	{
@@ -89,7 +93,7 @@
 	{
 		 "name" : "Week 7 | Annie",
          "songs" : [
-			,"Good-Enough"
+			 "Good-Enough"
 			,"Lover"
 			,"Tug-of-War"
 			,"Animal"
@@ -98,12 +102,25 @@
 	{
 		 "name" : "Week 8 | Dallas",
          "songs" : [
-			,"I-Will-Give-You-My-All"
+			 "I-Will-Give-You-My-All"
 			,"Break-The-Rules"
 			,"Donacdum"
 			,"It's-Payday"
         ]
     },
+	{
+		 "name" : "Kazoo",
+		 "songs" : [
+			 "Bopeebo-Kazoo"
+			,"Fresh-Kazoo"
+			,"Dadbattle-Kazoo"
+			,"Pico-Kazoo"
+			,"Philly-Kazoo"
+			,"Blammed-Kazoo"
+			,"Spookeez-Kazoo"
+			,"South-Kazoo"
+		]
+	},
 	{
 		 "name" : "Hell",
          "songs" : [

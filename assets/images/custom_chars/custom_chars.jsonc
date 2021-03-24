@@ -23,6 +23,10 @@
     "like": "bf-christmas",
     "icons": [0,1]
   },
+  "bf-dog-pixel": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
   "bf-sad": {
     "like": "bf",
     "icons": [0,1]
@@ -56,6 +60,10 @@
     "icons": [0,1]
   },
   "bf-alt": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-kazoo": {
     "like": "bf",
     "icons": [0,1]
   },
@@ -111,6 +119,10 @@
     "like": "bf",
     "icons": [0,1]
   },
+  "bf-girl": {
+    "like": "bf",
+    "icons": [0,1]
+  },
   "crew": {
     "like": "bf",
     "icons": [0,1]
@@ -124,6 +136,14 @@
     "icons": [48,49]
   },
   "pico-furry": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "tricky": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "pico-girl": {
     "like": "pico",
     "icons": [4,5]
   },
@@ -148,6 +168,10 @@
     "icons": [6,7]
   },
   "gf-dog": {
+    "like": "gf",
+    "icons": [16,16]
+  },
+  "gf-boy": {
     "like": "gf",
     "icons": [16,16]
   },
@@ -195,4 +219,8 @@
     "like": "pico",
     "icons": [4,5]
   },
+  "brother": {
+    "like": "whitty",
+    "icons": [24,25]
+  }
 }
