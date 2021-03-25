@@ -1,4 +1,8 @@
 {
+  "nobody": {
+    "like": "gf",
+    "icons": [60,60]
+  },
   "tankman": {
     "like": "tankman",
     "icons": [8,9]
@@ -139,7 +143,7 @@
     "like": "pico",
     "icons": [4,5]
   },
-  "tricky": {
+  "little-tricky": {
     "like": "pico",
     "icons": [4,5]
   },
@@ -191,6 +195,10 @@
     "like": "gf",
     "icons": [16,16]
   },
+  "ellectra": {
+    "like": "gf",
+    "icons": [16,16]
+  },
   "dad-refresh": {
     "like": "dad",
     "icons": [12,13]
@@ -219,8 +227,20 @@
     "like": "pico",
     "icons": [4,5]
   },
+  "melon": {
+    "like": "pico",
+    "icons": [4,5]
+  },
   "brother": {
     "like": "whitty",
     "icons": [24,25]
+  },
+  "hank": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "mario": {
+    "like": "pico",
+    "icons": [4,5]
   }
 }

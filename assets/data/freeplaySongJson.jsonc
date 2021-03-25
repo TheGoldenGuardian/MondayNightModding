@@ -25,19 +25,16 @@
     {
 		 "name" : "Custom Tracks",
          "songs" : [
-			 "Refresh"
-            ,"Shiver"
-			,"Grinder"
-            ,"School"
-            ,"Ex"
-            ,"Savage"
-            ,"Thornfire"
+             "Thornfire"
 			,"Ugh"
 			,"MTC"
 			,"Harder-Better-Faster-Stronger"
 			,"The-Less-I-Know-The-Better"
 			,"The-Ultimate-Showdown-of-Ultimate-Destiny"
 			,"Rockefeller-Street"
+			,"Boyfriend"
+			,"Mariobattle"
+			,"Mariobattle-BSide"
         ]
     },
 	{
@@ -86,6 +83,7 @@
 		 "name" : "Week 6 | Senpai",
          "songs" : [
              "Senpai"
+			,"Two-Hearts"
             ,"Roses"
             ,"Thorns"
         ]
@@ -109,6 +107,29 @@
         ]
     },
 	{
+		 "name" : "Hell",
+         "songs" : [
+			 "Aquarium-Park"
+			,"Funkin'-With-You"
+			,"Root-Of-All-Evil"
+        ]
+    },
+	{
+		 "name" : "Cum Zone",
+         "songs" : [
+			 "Welcome-To-The-Cum-Zone"
+			,"Heir-To-The-Cum-Throne"
+			,"Your-Cum-Won't-Last"
+        ]
+    },
+	{
+		 "name" : "Funny Clown",
+         "songs" : [
+			 "Improbable-Outset"
+			,"Madness"
+        ]
+    },
+	{
 		 "name" : "Kazoo",
 		 "songs" : [
 			 "Bopeebo-Kazoo"
@@ -121,19 +142,4 @@
 			,"South-Kazoo"
 		]
 	},
-	{
-		 "name" : "Hell",
-         "songs" : [
-			 "Boyfriend"
-			,"Root-Of-All-Evil"
-        ]
-    },
-	{
-		 "name" : "Cum Zone",
-         "songs" : [
-			 "Welcome-To-The-Cum-Zone"
-			,"Heir-To-The-Cum-Throne"
-			,"Your-Cum-Won't-Last"
-        ]
-    }
 ]
