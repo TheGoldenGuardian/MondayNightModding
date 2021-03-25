@@ -25,16 +25,26 @@
     {
 		 "name" : "Custom Tracks",
          "songs" : [
-             "Thornfire"
+			 "Bonfire-Revolving"
+            ,"Thornfire"
+			,"Thorned"
 			,"Ugh"
 			,"MTC"
 			,"Harder-Better-Faster-Stronger"
 			,"The-Less-I-Know-The-Better"
 			,"The-Ultimate-Showdown-of-Ultimate-Destiny"
+			,"Brittle-Bones-Nicky"
+			,"Brittle-Bones-Nicky-2"
 			,"Rockefeller-Street"
 			,"Boyfriend"
 			,"Mariobattle"
 			,"Mariobattle-BSide"
+			,"Chuckster"
+			,"Brain-Power"
+			,"Slap-Squad"
+			,"Ingenuity"
+			,"Hop-2-It"
+			,"Date-Night"
         ]
     },
 	{
@@ -68,9 +78,11 @@
 	{
 		 "name" : "Week 4 | Skid & Pump",
          "songs" : [
-             "Spookeez"
+			 "Scary-Swings"
+            ,"Spookeez"
             ,"South"
             ,"Shiver"
+			,"Trick-and-Treat"
 			,"Grinder"
         ]
     },

@@ -1,7 +1,7 @@
 {
   "nobody": {
-    "like": "gf",
-    "icons": [60,60]
+    "like": "bf",
+    "icons": [39,39]
   },
   "tankman": {
     "like": "tankman",
@@ -242,5 +242,9 @@
   "mario": {
     "like": "pico",
     "icons": [4,5]
+  },
+  "randy": {
+    "like": "dad",
+    "icons": [12,13]
   }
 }

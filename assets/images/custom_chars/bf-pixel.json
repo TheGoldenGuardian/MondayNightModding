@@ -72,7 +72,7 @@
     "deathConfirm": [-37,0]
   },
   "flipx": true,
-  "enemyOffset": [0,350],
+  "enemyOffset": [200,540],
   "size": [-100,-100],
   "followCam": [-200,-200],
   "like": "bf-pixel",
