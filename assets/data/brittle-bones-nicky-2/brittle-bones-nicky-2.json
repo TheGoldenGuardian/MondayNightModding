@@ -5424,7 +5424,7 @@
         ]
         ,"player2" : "brother"
         ,"isHey" : false
-        ,"cutsceneType" : "none"
+        ,"cutsceneType" : "dialog"
         ,"isSpooky" : false
         ,"song" : "Brittle-Bones-Nicky-2"
         ,"validScore" : true

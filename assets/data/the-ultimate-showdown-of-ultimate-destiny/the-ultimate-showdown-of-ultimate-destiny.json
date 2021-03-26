@@ -5933,7 +5933,7 @@
         ]
         ,"player2" : "brother"
         ,"isHey" : false
-        ,"cutsceneType" : "none"
+        ,"cutsceneType" : "dialog"
         ,"isSpooky" : false
         ,"song" : "The-Ultimate-Showdown-of-Ultimate-Destiny"
         ,"validScore" : true

@@ -211,6 +211,10 @@
     "like": "senpai-angry",
     "icons": [22,22]
   },
+  "michael-jackson": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
   "daft": {
     "like": "bf-pixel",
     "icons": [51,51,25]
@@ -233,7 +237,7 @@
   },
   "brother": {
     "like": "whitty",
-    "icons": [24,25]
+    "icons": [0,1]
   },
   "hank": {
     "like": "bf",
@@ -244,6 +248,14 @@
     "icons": [4,5]
   },
   "randy": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "card-dealer": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "jonesy": {
     "like": "dad",
     "icons": [12,13]
   }

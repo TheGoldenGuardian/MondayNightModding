@@ -4616,7 +4616,7 @@
             }
         ]
         ,"isHey" : false
-        ,"cutsceneType" : "none"
+        ,"cutsceneType" : "dialog"
         ,"isSpooky" : false
         ,"song" : "Brittle-Bones-Nicky"
         ,"validScore" : true

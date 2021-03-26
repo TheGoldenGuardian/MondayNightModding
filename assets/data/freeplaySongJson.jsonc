@@ -1,40 +1,14 @@
 [
      {
-		 "name" : "Base Game",
+		 "name" : "Memes",
          "songs" : [
-             "Tutorial"
-            ,"Bopeebo"
-            ,"Fresh"
-            ,"Dadbattle"
-            ,"Spookeez"
-            ,"South"
-            ,"Pico"
-            ,"Philly"
-            ,"Blammed"
-            ,"Satin-Panties"
-            ,"High"
-            ,"Milf"
-            ,"Cocoa"
-            ,"Eggnog"
-            ,"Winter-Horrorland"
-            ,"Senpai"
-            ,"Roses"
-            ,"Thorns"
-        ]
-    },
-    {
-		 "name" : "Custom Tracks",
-         "songs" : [
-			 "Bonfire-Revolving"
+             "Bonfire-Revolving"
             ,"Thornfire"
 			,"Thorned"
-			,"Ugh"
-			,"MTC"
+            ,"MTC"
+			,"Dopamine"
 			,"Harder-Better-Faster-Stronger"
 			,"The-Less-I-Know-The-Better"
-			,"The-Ultimate-Showdown-of-Ultimate-Destiny"
-			,"Brittle-Bones-Nicky"
-			,"Brittle-Bones-Nicky-2"
 			,"Rockefeller-Street"
 			,"Boyfriend"
 			,"Mariobattle"
@@ -42,9 +16,19 @@
 			,"Chuckster"
 			,"Brain-Power"
 			,"Slap-Squad"
+			,"Scary-Swings"
+			,"Fresh-Chug"
+			,"Rose-Criminal"
+        ]
+    },
+    {
+		 "name" : "Originals",
+         "songs" : [
+			 "Ugh"
 			,"Ingenuity"
 			,"Hop-2-It"
 			,"Date-Night"
+			,"Depart"
         ]
     },
 	{
@@ -78,11 +62,11 @@
 	{
 		 "name" : "Week 4 | Skid & Pump",
          "songs" : [
-			 "Scary-Swings"
-            ,"Spookeez"
+			 "Spookeez"
             ,"South"
             ,"Shiver"
 			,"Trick-and-Treat"
+			,"Great-South"
 			,"Grinder"
         ]
     },
@@ -116,6 +100,14 @@
 			,"Break-The-Rules"
 			,"Donacdum"
 			,"It's-Payday"
+        ]
+    },
+	{
+		 "name" : "Week 9 | Brother",
+         "songs" : [
+			 "The-Ultimate-Showdown-of-Ultimate-Destiny"
+			,"Brittle-Bones-Nicky"
+			,"Brittle-Bones-Nicky-2"
         ]
     },
 	{
