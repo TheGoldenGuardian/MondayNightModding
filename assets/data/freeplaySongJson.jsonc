@@ -1,8 +1,11 @@
 [
      {
-		 "name" : "Memes",
+		 "name" : "Custom Tracks",
          "songs" : [
-             "Bonfire-Revolving"
+			 "Ugh"
+			,"Ingenuity"
+			,"Hop-2-It"
+            ,"Bonfire-Revolving"
             ,"Thornfire"
 			,"Thorned"
             ,"MTC"
@@ -19,16 +22,6 @@
 			,"Scary-Swings"
 			,"Fresh-Chug"
 			,"Rose-Criminal"
-        ]
-    },
-    {
-		 "name" : "Originals",
-         "songs" : [
-			 "Ugh"
-			,"Ingenuity"
-			,"Hop-2-It"
-			,"Date-Night"
-			,"Depart"
         ]
     },
 	{
@@ -65,6 +58,7 @@
 			 "Spookeez"
             ,"South"
             ,"Shiver"
+			,"Shiver-UpSide"
 			,"Trick-and-Treat"
 			,"Great-South"
 			,"Grinder"
@@ -79,8 +73,8 @@
 		 "name" : "Week 6 | Senpai",
          "songs" : [
              "Senpai"
-			,"Two-Hearts"
             ,"Roses"
+			,"Two-Hearts"
             ,"Thorns"
         ]
     },
@@ -103,7 +97,7 @@
         ]
     },
 	{
-		 "name" : "Week 9 | Brother",
+		 "name" : "Vs? Brother",
          "songs" : [
 			 "The-Ultimate-Showdown-of-Ultimate-Destiny"
 			,"Brittle-Bones-Nicky"
@@ -111,7 +105,7 @@
         ]
     },
 	{
-		 "name" : "Hell",
+		 "name" : "...Hell?",
          "songs" : [
 			 "Aquarium-Park"
 			,"Funkin'-With-You"
@@ -127,12 +121,45 @@
         ]
     },
 	{
-		 "name" : "Funny Clown",
+		 "name" : "Vs. Tricky",
          "songs" : [
 			 "Improbable-Outset"
 			,"Madness"
         ]
     },
+	{
+		"name" : "Vs. Ellectra",
+		"songs" : [
+			 "Date-Night"
+			,"Clean"
+			,"3battle"
+			,"Depart"
+		]
+	},
+	{
+		"name" : "Vs. Carol",
+		"songs" : [
+			 "Carol"
+			,"Body"
+			,"Boogie"
+		]
+	},
+	{
+		"name" : "Vs. Amogus",
+		"songs" : [
+			 "Suspai"
+			,"Rosus"
+			,"Thornsussy"
+		]
+	},
+	{
+		"name" : "Vs. Ridzak",
+		"songs" : [
+			 "Challenger"
+            ,"Ouch"
+            ,"Ego"
+		]
+	},
 	{
 		 "name" : "Kazoo",
 		 "songs" : [

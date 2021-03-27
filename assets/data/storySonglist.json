@@ -6,14 +6,17 @@
     ["week select", "Satin-Panties", "High", "Milf"],
     ["week select", "Spookeez", "South", "Shiver", "Trick-and-Treat", "Great-South", "Grinder"],
     ["week select", "literally unplayable", "it'll crash your game", "don't choose this"],
-    ["week select", "Senpai", "Two-Hearts", "Roses", "Thorns"],
+    ["week select", "Senpai", "Roses", "Two-Hearts", "Thorns"],
 	["week select", "Good-Enough", "Lover", "Tug-of-War", "Animal"],
 	["week select", "I-Will-Give-You-My-All", "Break-The-Rules", "Donacdum", "It's-Payday"],
 	["week select", "The-Ultimate-Showdown-of-Ultimate-Destiny", "Brittle-Bones-Nicky", "Brittle-Bones-Nicky-2"]
 	["week select", "Aquarium-Park", "Funkin'-With-You", "Root-of-All-Evil"],
 	["week select", "Welcome-To-The-Cum-Zone", "Heir-To-The-Cum-Throne", "Your-Cum-Won't-Last"],
 	["week select", "Improbable-Outset", "Madness"],
-	["week select", "Bopeebo-Kazoo", "Fresh-Kazoo", "Dadbattle-Kazoo", "Pico-Kazoo", "Philly-Kazoo", "Blammed-Kazoo", "Spookeez-Kazoo", "South-Kazoo"]
+	["week select", "Date-Night", "Clean", "3battle", "Depart"],
+	["week select", "Carol", "Body", "Boogie"],
+	["week select", "Suspai", "Rosus", "Thornsussy"],
+    ["week select", "Challenger", "Ouch", "Ego"]
   ],
   "weekNames": [
     "",
@@ -26,10 +29,13 @@
 	"Annie Annie",
 	"The Heist",
 	"Oh, Brother",
-	"Hell (WIP)",
+	"?????",
 	"The Cum Zone",
 	"Clowning Around",
-	"Too Kazoo"
+	"Electrifying",
+	"",
+	"WHEN THE IMPOSTOR IS SUS",
+	" Vs RidZak "
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -42,9 +48,12 @@
 	["annie", "bf", "gf"],
 	["dallas", "bf-hoodie", "gf"],
 	["unknown", "bf", "gf"],
-	["unknown", "doomkid", "blank"],
+	["blank", "doomkid", "blank"],
 	["senpai", "unknown", "gf"],
 	["unknown", "unknown", "unknown"],
-	["unknown", "bf-kazoo", "gf"]
+	["unknown", "bf", "blank"],
+	["unknown", "bf", "gf"],
+	["blank", "blank", "blank"],
+    ["ridzak", "bf", "gf"]
   ]
 }

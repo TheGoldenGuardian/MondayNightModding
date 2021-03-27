@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="campaign_menu_UI_assets.png">
-	<SubTexture name="week select" x="0" y="0" width="319" height="90"/>
+	<SubTexture name="week select" x="0" y="0" width="320" height="90"/>
 </TextureAtlas>

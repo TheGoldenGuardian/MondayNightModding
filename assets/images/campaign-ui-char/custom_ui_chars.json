@@ -66,5 +66,9 @@
   "dallas": {
     "like": "mom",
     "defaultGraphics": false
+  },
+  "ridzak": {
+    "like": "pico",
+    "defaultGraphics": false
   }
 }

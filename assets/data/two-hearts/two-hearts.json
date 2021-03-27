@@ -2615,9 +2615,9 @@
                 ,"mustHitSection" : true
             }
         ]
-        ,"player2" : "senpai-ego"
+        ,"player2" : "senpai-angry"
         ,"isHey" : false
-        ,"cutsceneType" : "senpai-ego"
+        ,"cutsceneType" : "angry-senpai"
         ,"isSpooky" : false
         ,"song" : "Two-Hearts"
         ,"validScore" : true
@@ -2625,11 +2625,11 @@
         ,"sectionLengths" : [
 
         ]
-        ,"isMoody" : false
+        ,"isMoody" : true
         ,"uiType" : "pixel"
         ,"needsVoices" : true
         ,"sections" : 0
-        ,"stage" : "school"
+        ,"stage" : "schoolSunset"
         ,"bpm" : 122
         ,"gf" : "gf-pixel"
     }

@@ -2,3 +2,7 @@ friday night, size 80
 border width 4, softness 127, white
 3 empty pixels top
 4 empty pixels bottom
+
+
+friday night, size 36 for small text
+bold and italicized

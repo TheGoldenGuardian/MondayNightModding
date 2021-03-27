@@ -199,6 +199,14 @@
     "like": "gf",
     "icons": [16,16]
   },
+  "tricky-gf": {
+    "like": "gf",
+    "icons": [16,16]
+  },
+  "tricky-gf-christmas": {
+    "like": "gf",
+    "icons": [16,16]
+  },
   "dad-refresh": {
     "like": "dad",
     "icons": [12,13]
@@ -255,8 +263,32 @@
     "like": "bf",
     "icons": [0,1]
   },
-  "jonesy": {
+  "knight": {
     "like": "dad",
     "icons": [12,13]
+  },
+  "carol": {
+    "like": "carol",
+    "icons": [16,16]
+  },
+  "amogus": {
+    "like": "senpai",
+    "icons": [22,22]
+  },
+  "amogus-angry": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
+  "bf-sus": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "RidZak": {
+	 "like": "RidZak",
+	 "icons": [8,9,9]
+  }
+  "CR": {
+     "like": "CR",
+	 "icons": [8,9,9]
   }
 }
