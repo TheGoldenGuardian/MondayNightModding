@@ -15,6 +15,10 @@
     "like": "gf",
     "icons": [10,11]
   },
+  "bf-astley": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
   "bf-dog": {
     "like": "bf",
     "icons": [0,1]
@@ -285,10 +289,10 @@
   },
   "RidZak": {
 	 "like": "RidZak",
-	 "icons": [8,9,9]
+	 "icons": [8,9]
   }
   "CR": {
      "like": "CR",
-	 "icons": [8,9,9]
+	 "icons": [8,9]
   }
 }

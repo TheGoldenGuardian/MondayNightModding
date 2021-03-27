@@ -16,10 +16,12 @@
   "nevada": "stage",
   "mart": "stage",
   "phillyNight": "philly",
+  "phillyDay": "philly",
   "fortnite": "stage",
   "schoolSunset": "school",
   "amogus": "school",
   "amogusEvil": "schoolEvil",
   "clubcity": "stage",
-  "clubcityBusted": "stage"
+  "clubcityBusted": "stage",
+  "rickrolled": "stage"
 }
