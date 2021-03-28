@@ -51,9 +51,9 @@
     "like": "bf",
     "icons": [0,1]
   },
-  "jeico": {
-    "like": "bf",
-    "icons": [0,1]
+  "tito": {
+    "like": "gf",
+    "icons": [16,16]
   },
   "gato": {
     "like": "bf",
@@ -287,12 +287,24 @@
     "like": "bf-pixel",
     "icons": [21,21]
   },
-  "RidZak": {
-	 "like": "RidZak",
+  "ridzak": {
+	 "like": "ridzak",
 	 "icons": [8,9]
-  }
-  "CR": {
-     "like": "CR",
+  },
+  "ridzak-crazy": {
+     "like": "ridzak-crazy",
 	 "icons": [8,9]
-  }
+  },
+  "flatline": {
+     "like": "flatline",
+	 "icons": [24,25]
+  },
+  "john-bomb": {
+     "like": "spooky",
+	 "icons": [2,3]
+  },
+  "davrok": {
+    "like": "carol",
+    "icons": [12,13]
+  },
 }

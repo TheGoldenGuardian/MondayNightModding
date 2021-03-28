@@ -2,7 +2,8 @@
      {
 		 "name" : "Custom Tracks",
          "songs" : [
-			 "Brotherhood"
+			 "Contracted"
+			,"Brotherhood"
 			,"Highway"
 			,"Shiver-UpSide"
 			,"Ugh"
@@ -29,6 +30,10 @@
 			,"Rolled"
 			,"Axel-F"
 			,"My-Dad-Is-Rich"
+			,"Back-2-Back"
+			,"Dreams-of-Our-Generation-(Night-Walk)"
+			,"I-Love-You-My-One-and-Only-(Remix-8)"
+			,"Lonely-Storm-(Karate-Man)"
         ]
     },
 	{
@@ -164,6 +169,21 @@
 			 "Challenger"
             ,"Ouch"
             ,"Ego"
+		]
+	},
+	{
+		"name" : "Vs. Flatline",
+		"songs" : [
+			 "Groovin4"
+            ,"GetValue"
+            ,"Go-Getter"
+		]
+	},
+	{
+		"name" : "Vs. John Bomb",
+		"songs" : [
+			 "John-Bomb-Rage"
+            ,"John-Bomb-Rage-(Remix)"
 		]
 	},
 	{

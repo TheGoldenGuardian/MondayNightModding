@@ -30,7 +30,7 @@
   },
   "flipx": false,
   "camOffset": [400,0],
-  "followCam": [300,100],
-  "like": "carol",
+  "followCam": [300,50],
+  "like": "dad",
   "playAnim": "idle"
 }

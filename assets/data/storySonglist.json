@@ -16,7 +16,9 @@
 	["week select", "Date-Night", "Clean", "3battle", "Depart"],
 	["week select", "Carol", "Body", "Boogie"],
 	["week select", "Suspai", "Rosus", "Thornsussy"],
-    ["week select", "Challenger", "Ouch", "Ego"]
+    ["week select", "Challenger", "Ouch", "Ego"],
+	["week select", "Groovin4", "GetValue", "Go-Getter"],
+	["week select", "John-Bomb-Rage", "John-Bomb-Rage-(Remix)"]
   ],
   "weekNames": [
     "",
@@ -35,7 +37,9 @@
 	"Electrifying",
 	"",
 	"WHEN THE IMPOSTOR IS SUS",
-	" Vs RidZak "
+	" Vs RidZak ",
+	"metronome for a heart",
+	"lit up"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -54,6 +58,8 @@
 	["unknown", "bf", "blank"],
 	["unknown", "bf", "gf"],
 	["blank", "blank", "blank"],
-    ["ridzak", "bf", "gf"]
+    ["ridzak", "bf", "gf"],
+	["flatline", "bf", "gf"],
+	["john-bomb", "bf", "gf"]
   ]
 }

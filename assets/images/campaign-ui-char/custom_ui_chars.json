@@ -70,5 +70,13 @@
   "ridzak": {
     "like": "pico",
     "defaultGraphics": false
+  },
+  "flatline": {
+    "like": "pico",
+    "defaultGraphics": false
+  },
+  "john-bomb": {
+    "like": "spooky",
+    "defaultGraphics": false
   }
 }

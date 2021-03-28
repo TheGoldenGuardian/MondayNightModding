@@ -1,0 +1,39 @@
+{
+  "animation": {
+    "idle": {
+      "name": "Flatline Idle Dance",
+      "loop": true
+    },
+    "singUP": {
+      "name": "flatline Up note0",
+      "loop": false
+    },
+    "singDOWN": {
+      "name": "Flatline Down Note0",
+      "loop": false
+    },
+    "singLEFT": {
+      "name": "Flatline NOTE LEFT0",
+      "loop": false,
+      "flippedname": "Flatline Note Right0"
+    },
+    "singRIGHT": {
+      "name": "Flatline Note Right0",
+      "loop": false,
+      "flippedname": "Flatline NOTE LEFT0"
+    }
+  },
+  "offset": {
+    "idle": [0,0],
+    "singUP": [-6,20],
+    "singRIGHT": [10,27],
+    "singLEFT": [-10, -30],
+    "singDOWN": [0, -40]
+  },
+  "flipx": true,
+  "camOffset": [400,200],
+  "enemyOffset": [100,300],
+  "followCam": [300,-50],
+  "like": "pico",
+  "playAnim": "idle"
+}
