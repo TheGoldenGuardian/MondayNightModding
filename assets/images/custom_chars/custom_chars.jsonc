@@ -139,6 +139,10 @@
     "like": "pico",
     "icons": [4,5]
   },
+  "pico-christmas": {
+    "like": "pico",
+    "icons": [4,5]
+  },
   "pico-thug": {
     "like": "pico",
     "icons": [48,49]
@@ -201,7 +205,7 @@
   },
   "ellectra": {
     "like": "gf",
-    "icons": [16,16]
+    "icons": [0,1]
   },
   "tricky-gf": {
     "like": "gf",
@@ -307,4 +311,16 @@
     "like": "carol",
     "icons": [12,13]
   },
+  "049": {
+    "like": "dad",
+    "icons": [10,11]
+  },
+  "035": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-wtf": {
+    "like": "bf",
+    "icons": [0,1]
+  }
 }
