@@ -322,5 +322,37 @@
   "bf-wtf": {
     "like": "bf",
     "icons": [0,1]
+  },
+  "lil-whitty": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "anonymous": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "kiryu": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "kiryu-shades": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "sans": {
+    "like": "spooky",
+    "icons": [2,3]
+  },
+  "spirit-starstruck": {
+    "like": "spirit",
+    "icons": [23,23]
+  },
+  "bf-pixel-sd": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "gf-pixel-sd": {
+    "like": "gf-pixel",
+    "icons": [16,16]
   }
 }

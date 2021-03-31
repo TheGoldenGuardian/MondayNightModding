@@ -2,7 +2,8 @@
      {
 		 "name" : "Custom Tracks",
          "songs" : [
-			 "Test"
+			 "Starstruck"
+			,"Test"
 			,"Contracted"
 			,"Brotherhood"
 			,"Highway"
@@ -37,9 +38,17 @@
 			,"Lonely-Storm-(Karate-Man)"
 			,"EEEAAAOOO"
 			,"Tetris-Beatbox"
-			,"Turn-The-Lights-Off"
 			,"Pigstep-Freestyle"
 			,"A-Pimp-Named-Slickback"
+			,"Get-Wario-Money"
+			,"Song-That-Might-Play-When-You-Fight-Sans"
+			,"DISCERNMENT"
+			,"Driftveil-City"
+			,"Pico-Canyon"
+			,"Gartic-Pummel"
+			,"PEPSI-MAN"
+			,"Renatus"
+			,"Milky-Ways"
         ]
     },
 	{
@@ -111,6 +120,14 @@
 			,"Break-The-Rules"
 			,"Donacdum"
 			,"It's-Payday"
+        ]
+    },
+	{
+		 "name" : "Dad's Revenge",
+         "songs" : [
+			 "Bopeeboba"
+			,"Fresh-Funk"
+			,"Chadbattle"
         ]
     },
 	{
