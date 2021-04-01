@@ -14,7 +14,7 @@ updated ridzak
 
 removed turn the lights off
 
-14 new songs!:
+16 new songs!:
  Bopeeboba
  Fresh-Funk
  Chadbattle
@@ -29,6 +29,8 @@ removed turn the lights off
  Milky-Ways
  Starstruck
  Pop-It-Like-It's-Hot
+ Crowd-Control
+ How-Long
 
 New gameover music!
 VS Flatline charts improved!

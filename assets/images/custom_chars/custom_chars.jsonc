@@ -354,5 +354,17 @@
   "gf-pixel-sd": {
     "like": "gf-pixel",
     "icons": [16,16]
+  },
+  "chinaman": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "towelcat": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-spectre": {
+    "like": "pico",
+    "icons": [4,5]
   }
 }
