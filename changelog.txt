@@ -50,3 +50,7 @@ VS Flatline charts improved!
 Updated Rose Criminal
 
 Removed Axel-F
+
+
+Removed Brain Power
+fucking fixed the goddamn note hit registration goddamn finally
