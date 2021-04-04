@@ -28,6 +28,10 @@
   "tokyo": "stage",
   "yakuza": "stage",
   "sans": "spooky",
-  "schoolStars": "schoolEvil"
-  "skybattle": "philly"
+  "schoolStars": "schoolEvil",
+  "skybattle": "philly",
+  "schoolSD": "school",
+  "schoolEvilSD": "schoolEvil",
+  "hcz": "stage",
+  "michaelbg": "school"
 }

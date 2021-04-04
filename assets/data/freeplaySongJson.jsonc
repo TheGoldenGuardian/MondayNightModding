@@ -1,5 +1,41 @@
 [
      {
+		 "name" : "Author's Favorites",
+         "songs" : [
+			 "Gartic-Pummel"
+			,"Grinder"
+			,"Shiver-UpSide"
+            ,"Thornfire"
+			,"Dopamine"
+			,"Rockefeller-Street"
+			,"Mariobattle-BSide"
+			,"Chuckster"
+			,"Slap-Squad"
+			,"My-Dad-Is-Rich"
+			,"Back-2-Back"
+			,"Dreams-of-Our-Generation-(Night-Walk)"
+			,"I-Love-You-My-One-and-Only-(Remix-8)"
+			,"Lonely-Storm-(Karate-Man)"
+			,"EEEAAAOOO"
+			,"Tetris-Beatbox"
+			,"Pigstep-Freestyle"
+			,"A-Pimp-Named-Slickback"
+			,"Get-Wario-Money"
+			,"Song-That-Might-Play-When-You-Fight-Sans"
+			,"DISCERNMENT"
+			,"Driftveil-City"
+			,"Pico-Canyon"
+			,"PEPSI-MAN"
+			,"Renatus"
+			,"Milky-Ways"
+			,"Drop-It-Like-It's-Hot"
+			,"Crowd-Control"
+			,"How-Long"
+			,"GIANT-ENEMY-SPIDER"
+			,"Ultimatum"
+        ]
+    },
+	{
 		 "name" : "Custom Tracks",
          "songs" : [
 			 "Starstruck"
@@ -31,13 +67,8 @@
 			,"Fresh-Chug"
 			,"Rose-Criminal"
 			,"Rolled"
-			,"Axel-F"
 			,"My-Dad-Is-Rich"
 			,"Back-2-Back"
-			,"Dreams-of-Our-Generation-(Night-Walk)"
-			,"I-Love-You-My-One-and-Only-(Remix-8)"
-			,"Lonely-Storm-(Karate-Man)"
-			,"EEEAAAOOO"
 			,"Tetris-Beatbox"
 			,"Pigstep-Freestyle"
 			,"A-Pimp-Named-Slickback"
@@ -52,6 +83,8 @@
 			,"Drop-It-Like-It's-Hot"
 			,"Crowd-Control"
 			,"How-Long"
+			,"GIANT-ENEMY-SPIDER"
+			,"Flintstones"
         ]
     },
 	{
@@ -212,6 +245,14 @@
             ,"John-Bomb-Rage-(Remix)"
 		]
 	},
+	{
+		 "name" : "Week 6 SD",
+         "songs" : [
+             "Senpai-SD"
+            ,"Roses-SD"
+			,"Thorns-SD"
+        ]
+    },
 	{
 		 "name" : "Kazoo",
 		 "songs" : [

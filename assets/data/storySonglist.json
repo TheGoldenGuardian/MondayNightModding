@@ -18,7 +18,8 @@
 	["week select", "Suspai", "Rosus", "Thornsussy"],
     ["week select", "Challenger", "Ouch", "Ego"],
 	["week select", "Groovin4", "GetValue", "Go-Getter"],
-	["week select", "John-Bomb-Rage", "John-Bomb-Rage-(Remix)"]
+	["week select", "John-Bomb-Rage", "John-Bomb-Rage-(Remix)"],
+    ["week select", "Senpai-SD", "Roses-SD", "Thorns-SD"],
   ],
   "weekNames": [
     "",
@@ -40,6 +41,7 @@
 	" Vs RidZak ",
 	"metronome for a heart",
 	"lit up"
+	"chilling simulator"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -60,6 +62,7 @@
 	["blank", "blank", "blank"],
     ["ridzak", "bf", "gf"],
 	["flatline", "bf", "gf"],
-	["john-bomb", "bf", "gf"]
+	["john-bomb", "bf", "gf"],
+	["senpai-sd", "bf", "gf"]
   ]
 }

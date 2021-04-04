@@ -229,7 +229,7 @@
   },
   "michael-jackson": {
     "like": "senpai-angry",
-    "icons": [22,22]
+    "icons": [24,24]
   },
   "daft": {
     "like": "bf-pixel",
@@ -313,7 +313,7 @@
   },
   "049": {
     "like": "dad",
-    "icons": [10,11]
+    "icons": [12,13]
   },
   "035": {
     "like": "bf",
@@ -366,5 +366,17 @@
   "bf-spectre": {
     "like": "pico",
     "icons": [4,5]
+  },
+  "senpai-sd": {
+    "like": "senpai",
+    "icons": [22,22]
+  },
+  "senpai-sd-angry": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
+  "spirit-sd": {
+    "like": "spirit",
+    "icons": [23,23]
   }
 }

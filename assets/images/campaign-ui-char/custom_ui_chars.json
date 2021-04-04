@@ -78,5 +78,9 @@
   "john-bomb": {
     "like": "spooky",
     "defaultGraphics": false
-  }
+  },
+  "senpai-sd": {
+    "like": "senpai",
+    "defaultGraphics": false
+  },
 }
