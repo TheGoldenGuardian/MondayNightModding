@@ -1,4 +1,9 @@
-Added songs (1):
- Buttercup
+Added songs (6):
+ Funk Power
+ Ain't Nothin' Like A Funky Meme
+ Primetime
 
-Fixed Character Select
+Added new weeks (1):
+ VS. Savant (Alchemist, Melody Circus, ???)
+
+Fixed "Chart Editor" option in modifiers menu

@@ -38,7 +38,8 @@
 	{
 		 "name" : "Custom Tracks",
          "songs" : [
-			 "Starstruck"
+			 "Primetime"
+			,"Starstruck"
 			,"Gartic-Pummel"
 			,"Test"
 			,"Contracted"
@@ -86,6 +87,8 @@
 			,"GIANT-ENEMY-SPIDER"
 			,"Flintstones"
 			,"Buttercup"
+			,"Funk-Power"
+			,"Ain't-Nothin'-Like-A-Funky-Meme"
         ]
     },
 	{
@@ -254,6 +257,14 @@
 			,"Thorns-SD"
         ]
     },
+	{
+		"name" : "Vs. Savant",
+		"songs" : [
+			 "Alchemist"
+            ,"Melody-Circus"
+            ,"What"
+		]
+	},
 	{
 		 "name" : "Kazoo",
 		 "songs" : [

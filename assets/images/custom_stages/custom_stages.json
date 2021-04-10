@@ -33,5 +33,8 @@
   "schoolSD": "school",
   "schoolEvilSD": "schoolEvil",
   "hcz": "stage",
-  "michaelbg": "school"
+  "michaelbg": "school",
+  "savantBG": "school",
+  "savantBGEvil": "schoolEvil",
+  "statictower": "philly"
 }

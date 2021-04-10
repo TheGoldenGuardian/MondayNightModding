@@ -1,0 +1,35 @@
+{
+  "animation": {
+    "idle": {
+      "name": "Mom Idle",
+      "loop": false
+    },
+    "singUP": {
+      "name": "Mom Up Pose",
+      "loop": false
+    },
+    "singDOWN": {
+      "name": "MOM DOWN POSE",
+      "loop": false
+    },
+    "singLEFT": {
+      "name": "Mom Left Pose",
+      "loop": false
+    },
+    "singRIGHT": {
+      "name": "Mom Pose Left",
+      "loop": false
+    }
+  },
+  "offset": {
+    "idle": [0,0],
+    "singUP": [34,38],
+    "singRIGHT": [10,-60],
+    "singLEFT": [63,2],
+    "singDOWN": [-32,-216]
+  },
+  "flipx": false,
+  "like": "mom",
+  "followCam": [300,100],
+  "playAnim": "idle"
+}

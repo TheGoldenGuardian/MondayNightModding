@@ -285,7 +285,7 @@
   },
   "carol": {
     "like": "carol",
-    "icons": [16,16]
+    "icons": [12,13]
   },
   "amogus": {
     "like": "senpai",
@@ -386,5 +386,29 @@
   "spirit-sd": {
     "like": "spirit",
     "icons": [23,23]
+  },
+  "bf-pixel-shades": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "gf-pixel-shades": {
+    "like": "gf-pixel",
+    "icons": [16,16]
+  },
+  "candyman": {
+    "like": "senpai",
+    "icons": [22,22]
+  },
+  "savant": {
+    "like": "senpai",
+    "icons": [22,22]
+  },
+  "savant-angry": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
+  "static": {
+    "like": "static",
+    "icons": [6,7]
   }
 }

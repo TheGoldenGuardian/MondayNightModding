@@ -20,6 +20,7 @@
 	["week select", "Groovin4", "GetValue", "Go-Getter"],
 	["week select", "John-Bomb-Rage", "John-Bomb-Rage-(Remix)"],
     ["week select", "Senpai-SD", "Roses-SD", "Thorns-SD"],
+    ["week select", "Alchemist", "Melody-Circus", "What"],
   ],
   "weekNames": [
     "",
@@ -40,8 +41,9 @@
 	"WHEN THE IMPOSTOR IS SUS",
 	" Vs RidZak ",
 	"metronome for a heart",
-	"lit up"
-	"chilling simulator"
+	"lit up",
+	"chilling simulator",
+	""
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -63,6 +65,7 @@
     ["ridzak", "bf", "gf"],
 	["flatline", "bf", "gf"],
 	["john-bomb", "bf", "gf"],
-	["senpai-sd", "bf", "gf"]
+	["senpai-sd", "bf", "gf"],
+	["savant", "bf", "gf"]
   ]
 }
