@@ -410,5 +410,9 @@
   "static": {
     "like": "static",
     "icons": [6,7]
+  },
+  "lnx": {
+    "like": "pico",
+    "icons": [4,5]
   }
 }

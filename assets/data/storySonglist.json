@@ -21,6 +21,7 @@
 	["week select", "John-Bomb-Rage", "John-Bomb-Rage-(Remix)"],
     ["week select", "Senpai-SD", "Roses-SD", "Thorns-SD"],
     ["week select", "Alchemist", "Melody-Circus", "What"],
+    ["week select", "OTR", "HOLIDAY", "MONTERO"],
   ],
   "weekNames": [
     "",
@@ -43,7 +44,8 @@
 	"metronome for a heart",
 	"lit up",
 	"chilling simulator",
-	""
+	"",
+	"we got the"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -66,6 +68,7 @@
 	["flatline", "bf", "gf"],
 	["john-bomb", "bf", "gf"],
 	["senpai-sd", "bf", "gf"],
-	["savant", "bf", "gf"]
+	["savant", "bf", "gf"],
+	["unknown", "bf", "gf"]
   ]
 }
