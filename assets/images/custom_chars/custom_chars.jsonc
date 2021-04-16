@@ -231,6 +231,10 @@
     "like": "senpai-angry",
     "icons": [22,22]
   },
+  "senpai-drip": {
+    "like": "senpai-angry",
+    "icons": [22,22]
+  },
   "senpai-ego": {
     "like": "senpai-angry",
     "icons": [22,22]
@@ -414,5 +418,45 @@
   "lnx": {
     "like": "pico",
     "icons": [4,5]
+  },
+  "whitty": {
+    "like": "dad",
+    "icons": [24,25]
+  },
+  "whitty-crazy": {
+    "like": "whitty-crazy",
+    "icons": [28,29]
+  },
+  "dad-kazoo": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "bf-pixel-crunchy": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "grunt": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "grunt-car": {
+    "like": "bf-car",
+    "icons": [0,1]
+  },
+  "grunt-festive": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "parents": {
+    "like": "parents",
+    "icons": [17,18]
+  },
+  "bf-festive": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "monster-festive": {
+    "like": "newmonster",
+    "icons": [19,20]
   }
 }

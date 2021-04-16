@@ -14,3 +14,21 @@ Added songs (3):
 
 Added new weeks (1):
  LNX (OTR, HOLIDAY, MONTERO)
+
+
+
+
+Added songs (6):
+ Senpai's True Form
+ Improbable Outset+
+ Madness+
+ Lo-Fight Retrospecter
+ Brass
+ Objection Funk
+ Through the Beeps and Boops
+
+Improved note hit registration
+Changed executable icon
+Game Over is cached so it doesn't stutter on loss
+Finally fixed Week 5!
+Added missing Milky Ways voice track

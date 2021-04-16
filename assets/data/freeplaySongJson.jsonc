@@ -38,7 +38,11 @@
 	{
 		 "name" : "Custom Tracks",
          "songs" : [
-			 "Primetime"
+			 "Brass"
+			,"Lo-Fight-Retrospecter"
+			,"Through-the-Beeps-and-Boops"
+			,"Senpai's-True-Form"
+			,"Primetime"
 			,"Starstruck"
 			,"Gartic-Pummel"
 			,"Test"
@@ -89,6 +93,7 @@
 			,"Buttercup"
 			,"Funk-Power"
 			,"Ain't-Nothin'-Like-A-Funky-Meme"
+			,"Objection-Funk"
         ]
     },
 	{
@@ -131,8 +136,11 @@
         ]
     },
 	{
-		 "name" : "Week 5 | (Unavailable)",
+		 "name" : "Week 5 | Parents",
          "songs" : [
+			 "Cocoa"
+            ,"Eggnog"
+            ,"Winter-Horrorland"
         ]
     },
 	{
@@ -199,6 +207,8 @@
          "songs" : [
 			 "Improbable-Outset"
 			,"Madness"
+			,"Improbable-Outset+"
+			,"Madness+"
         ]
     },
 	{

@@ -1,7 +1,7 @@
 {
      "song" : {
-         "player1" : "bf"
-        ,"player2" : "gato"
+         "player1" : "gato"
+        ,"player2" : "cat"
         ,"notes" : [
              {
                  "typeOfSection" : 0
@@ -8534,11 +8534,11 @@
 
         ]
         ,"isMoody" : false
-        ,"uiType" : "mungyodance3"
+        ,"uiType" : "paws"
         ,"needsVoices" : false
         ,"sections" : 0
         ,"stage" : "darkstage"
         ,"bpm" : 190
-        ,"gf" : "ellectra"
+        ,"gf" : "tito"
     }
 }
