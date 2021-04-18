@@ -1,14 +1,25 @@
-Added songs (7):
- Milf (GlitchxCity Remix)
- September
- Friday Night Freddy's
- Blammed but he's stronger than you
- Drop Pop Candy
- Wocky
- Beathoven
+Songs:
+ + Friday Night of Nights
+ + Ruler of Everything
+ + All Star
+ + Devoid
+ + Vexed
+ + Berserk
+ + ERROR
 
-Removed Kazoo tracks
-Removed Vs. Brother and ...Hell? from Story Mode
-Removed Melon
+Story:
+ + Vs Berzerk Week (4 songs, 3 phases)
 
-Hell tracks are now in normal freeplay
+Engine:
+ + Added a delay before loading selected song in freeplay
+ + Added outline to texts during gameplay
+ + Added song name before difficulty in gameplay
+ = Notes leaving the screen reduce accuracy and score again
+ + Characters bop better
+ + Added miss counter to gameplay
+ + Added miss counter to victory screen
+ = Shuffled around the UI at the bottom of the screen
+
+Misc.:
+ = Changed Brain Power player to Shu Chi
+ = Rethemed Ultimatum

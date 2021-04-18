@@ -1,6 +1,6 @@
 {
      "song" : {
-         "player1" : "035"
+         "player1" : "bf-pixel-cool-hands"
         ,"notes" : [
              {
                  "lengthInSteps" : 16
@@ -3333,10 +3333,10 @@
                 ,"mustHitSection" : true
             }
         ]
-        ,"player2" : "049"
+        ,"player2" : "spirit-skull"
         ,"isHey" : false
         ,"cutsceneType" : "none"
-        ,"isSpooky" : false
+        ,"isSpooky" : true
         ,"song" : "Ultimatum"
         ,"validScore" : true
         ,"speed" : 1.5
@@ -3344,10 +3344,10 @@
 
         ]
         ,"isMoody" : false
-        ,"uiType" : "normal"
+        ,"uiType" : "pixel"
         ,"needsVoices" : true
         ,"sections" : 0
-        ,"stage" : "hcz"
+        ,"stage" : "schoolEvil"
         ,"bpm" : 115
         ,"gf" : "nobody"
     }

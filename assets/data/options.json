@@ -4,5 +4,5 @@
     ,"alwaysDoCutscenes" : false
     ,"allowEditOptions" : true
     ,"useSaveDataMenu" : true
-    ,"skipModifierMenu" : false
+    ,"skipModifierMenu" : true
 }

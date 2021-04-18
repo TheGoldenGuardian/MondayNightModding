@@ -12,7 +12,7 @@
 	["week select", "Welcome-To-The-Cum-Zone", "Heir-To-The-Cum-Throne", "Your-Cum-Won't-Last"],
 	["week select", "Improbable-Outset", "Madness"],
 	["week select", "Date-Night", "Clean", "3battle", "Depart"],
-	["week select", "Carol", "Body", "Boogie"],
+	["week select", "Carol-Roll", "Body", "Boogie"],
 	["week select", "Suspai", "Rosus", "Thornsussy"],
     ["week select", "Challenger", "Ouch", "Ego"],
 	["week select", "Groovin4", "GetValue", "Go-Getter"],
@@ -20,6 +20,7 @@
     ["week select", "Senpai-SD", "Roses-SD", "Thorns-SD"],
     ["week select", "Alchemist", "Melody-Circus", "What"],
     ["week select", "OTR", "HOLIDAY", "MONTERO"],
+	["week select", "Devoid", "Vexed", "Berserk", "ERROR"],
   ],
   "weekNames": [
     "",
@@ -41,7 +42,8 @@
 	"lit up",
 	"chilling simulator",
 	"",
-	"we got the"
+	"we got the",
+	"BERZERK"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -63,6 +65,7 @@
 	["john-bomb", "bf", "gf"],
 	["senpai-sd", "bf", "gf"],
 	["savant", "bf", "gf"],
+	["unknown", "bf", "gf"],
 	["unknown", "bf", "gf"]
   ]
 }

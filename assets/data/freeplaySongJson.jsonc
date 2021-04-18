@@ -2,16 +2,15 @@
      {
 		 "name" : "Recent Additions"
          "songs" : [
-			"Milf-(GlitchxCity-Remix)"
-			"Blammed-but-he's-stronger-than-you"
-			"September"
-			"Friday-Night-Freddy's"
-			"Drop-Pop-Candy"
+			"Friday-Night-of-Nights"
+			"Ruler-Of-Everything"
+			"All-Star"
         ]
     }
 	{
 		 "name" : "Custom Tracks"
          "songs" : [
+			"Ultimatum"
 			"Milf-(GlitchxCity-Remix)"
 			"Brass"
 			"Lo-Fight-Retrospecter"
@@ -76,6 +75,9 @@
 			"September"
 			"Friday-Night-Freddy's"
 			"Drop-Pop-Candy"
+			"Friday-Night-of-Nights"
+			"Ruler-of-Everything"
+			"All-Star"
         ]
     }
 	{
@@ -197,7 +199,7 @@
 	{
 		"name" : "Vs. Carol"
 		"songs" : [
-			"Carol"
+			"Carol-Roll"
 			"Body"
 			"Boogie"
 		]
@@ -254,6 +256,15 @@
 		 "songs" : [
 			"Wocky"
 			"Beathoven"
+		]
+	}
+	{
+		 "name" : "Vs. Berzerk"
+		 "songs" : [
+			"Devoid"
+			"Vexed"
+			"Berserk"
+			"Error"
 		]
 	}
 	{

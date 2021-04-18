@@ -463,4 +463,48 @@
     "like": "dad",
     "icons": [12,13]
   },
+  "shu-chi": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "bf-pixel-cool": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "bf-pixel-cool-hands": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "spirit-skull": {
+    "like": "spirit",
+    "icons": [23,23]
+  },
+  "mom-anims": {
+    "like": "mom",
+    "icons": [6,7]
+  },
+  "bf-anims": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "dad-anims": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "pico-anims": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "berzerk": {
+    "like": "berzerk",
+    "icons": [24,25]
+  },
+  "berzerk-angry": {
+    "like": "berzerk",
+    "icons": [26,27]
+  },
+  "berzerk-error": {
+    "like": "berzerk",
+    "icons": [28,29]
+  },
 }
