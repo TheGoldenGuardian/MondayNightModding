@@ -1,298 +1,267 @@
 [
      {
-		 "name" : "Author's Favorites",
+		 "name" : "Recent Additions"
          "songs" : [
-			 "Gartic-Pummel"
-			,"Grinder"
-			,"Shiver-UpSide"
-            ,"Thornfire"
-			,"Dopamine"
-			,"Rockefeller-Street"
-			,"Mariobattle-BSide"
-			,"Chuckster"
-			,"Slap-Squad"
-			,"My-Dad-Is-Rich"
-			,"Back-2-Back"
-			,"Dreams-of-Our-Generation-(Night-Walk)"
-			,"I-Love-You-My-One-and-Only-(Remix-8)"
-			,"Lonely-Storm-(Karate-Man)"
-			,"EEEAAAOOO"
-			,"Tetris-Beatbox"
-			,"Pigstep-Freestyle"
-			,"A-Pimp-Named-Slickback"
-			,"Get-Wario-Money"
-			,"Song-That-Might-Play-When-You-Fight-Sans"
-			,"DISCERNMENT"
-			,"Driftveil-City"
-			,"Pico-Canyon"
-			,"PEPSI-MAN"
-			,"Renatus"
-			,"Milky-Ways"
-			,"Drop-It-Like-It's-Hot"
-			,"Crowd-Control"
-			,"How-Long"
-			,"GIANT-ENEMY-SPIDER"
-			,"Ultimatum"
+			"Milf-(GlitchxCity-Remix)"
+			"Blammed-but-he's-stronger-than-you"
+			"September"
+			"Friday-Night-Freddy's"
+			"Drop-Pop-Candy"
         ]
-    },
+    }
 	{
-		 "name" : "Custom Tracks",
+		 "name" : "Custom Tracks"
          "songs" : [
-			 "Milf-(GlitchxCity-Remix)"
-			,"Brass"
-			,"Lo-Fight-Retrospecter"
-			,"Through-the-Beeps-and-Boops"
-			,"Senpai's-True-Form"
-			,"Primetime"
-			,"Starstruck"
-			,"Gartic-Pummel"
-			,"Test"
-			,"Contracted"
-			,"Brotherhood"
-			,"Highway"
-			,"Shiver-UpSide"
-			,"Ugh"
-			,"Ingenuity"
-			,"Hop-2-It"
-            ,"Bonfire-Revolving"
-            ,"Thornfire"
-			,"Thorned"
-            ,"MTC"
-			,"Dopamine"
-			,"Harder-Better-Faster-Stronger"
-			,"The-Less-I-Know-The-Better"
-			,"Rockefeller-Street"
-			,"Caramelldansen"
-			,"Boyfriend"
-			,"Mariobattle"
-			,"Mariobattle-BSide"
-			,"Chuckster"
-			,"Brain-Power"
-			,"Slap-Squad"
-			,"Scary-Swings"
-			,"Fresh-Chug"
-			,"Funkin'-With-You"
-			,"Rose-Criminal"
-			,"Rolled"
-			,"My-Dad-Is-Rich"
-			,"Back-2-Back"
-			,"Tetris-Beatbox"
-			,"Pigstep-Freestyle"
-			,"A-Pimp-Named-Slickback"
-			,"Get-Wario-Money"
-			,"Song-That-Might-Play-When-You-Fight-Sans"
-			,"DISCERNMENT"
-			,"Driftveil-City"
-			,"Pico-Canyon"
-			,"PEPSI-MAN"
-			,"Renatus"
-			,"Milky-Ways"
-			,"Drop-It-Like-It's-Hot"
-			,"Crowd-Control"
-			,"How-Long"
-			,"GIANT-ENEMY-SPIDER"
-			,"Flintstones"
-			,"Buttercup"
-			,"Funk-Power"
-			,"Ain't-Nothin'-Like-A-Funky-Meme"
-			,"Objection-Funk"
-			,"Blammed-but-he's-stronger-than-you"
-			,"September"
-			,"Friday-Night-Freddy's"
-			,"Drop-Pop-Candy"
+			"Milf-(GlitchxCity-Remix)"
+			"Brass"
+			"Lo-Fight-Retrospecter"
+			"Through-the-Beeps-and-Boops"
+			"Senpai's-True-Form"
+			"Primetime"
+			"Starstruck"
+			"Gartic-Pummel"
+			"Test"
+			"Contracted"
+			"Brotherhood"
+			"Highway"
+			"Shiver-UpSide"
+			"Ugh"
+			"Ingenuity"
+			"Hop-2-It"
+            "Bonfire-Revolving"
+            "Thornfire"
+			"Thorned"
+            "MTC"
+			"Dopamine"
+			"Harder-Better-Faster-Stronger"
+			"The-Less-I-Know-The-Better"
+			"Rockefeller-Street"
+			"Caramelldansen"
+			"Boyfriend"
+			"Mariobattle"
+			"Mariobattle-BSide"
+			"Chuckster"
+			"Brain-Power"
+			"Slap-Squad"
+			"Scary-Swings"
+			"Fresh-Chug"
+			"Funkin'-With-You"
+			"Aquarium-Park"
+			"Root-Of-All-Evil"
+			"Rose-Criminal"
+			"Rolled"
+			"My-Dad-Is-Rich"
+			"Back-2-Back"
+			"Tetris-Beatbox"
+			"Pigstep-Freestyle"
+			"A-Pimp-Named-Slickback"
+			"Get-Wario-Money"
+			"Song-That-Might-Play-When-You-Fight-Sans"
+			"DISCERNMENT"
+			"Driftveil-City"
+			"Pico-Canyon"
+			"PEPSI-MAN"
+			"Renatus"
+			"Milky-Ways"
+			"Drop-It-Like-It's-Hot"
+			"Crowd-Control"
+			"How-Long"
+			"GIANT-ENEMY-SPIDER"
+			"Flintstones"
+			"Buttercup"
+			"Funk-Power"
+			"Ain't-Nothin'-Like-A-Funky-Meme"
+			"Objection-Funk"
+			"Blammed-but-he's-stronger-than-you"
+			"September"
+			"Friday-Night-Freddy's"
+			"Drop-Pop-Candy"
         ]
-    },
+    }
 	{
-		 "name" : "Week 1 | Dad",
+		 "name" : "Week 1 | Dad"
          "songs" : [
-             "Bopeebo"
-            ,"Fresh"
-            ,"Dadbattle"
-            ,"Refresh"
+            "Bopeebo"
+            "Fresh"
+            "Dadbattle"
+            "Refresh"
         ]
-    },
+    }
 	{
-		 "name" : "Week 2 | Pico",
+		 "name" : "Week 2 | Pico"
          "songs" : [
-             "Pico"
-            ,"Philly"
-            ,"Blammed"
-            ,"School"
-            ,"Ex"
-            ,"Savage"
+            "Pico"
+            "Philly"
+            "Blammed"
+            "School"
+            "Ex"
+            "Savage"
         ]
-    },
+    }
 	{
-		 "name" : "Week 3 | Mom",
+		 "name" : "Week 3 | Mom"
          "songs" : [
-             "Satin-Panties"
-            ,"High"
-            ,"Milf"
+            "Satin-Panties"
+            "High"
+            "Milf"
         ]
-    },
+    }
 	{
-		 "name" : "Week 4 | Skid & Pump",
+		 "name" : "Week 4 | Skid & Pump"
          "songs" : [
-			 "Spookeez"
-            ,"South"
-            ,"Shiver"
-			,"Trick-and-Treat"
-			,"Great-South"
-			,"Grinder"
+			"Spookeez"
+            "South"
+            "Shiver"
+			"Trick-and-Treat"
+			"Great-South"
+			"Grinder"
         ]
-    },
+    }
 	{
-		 "name" : "Week 5 | Parents",
+		 "name" : "Week 5 | Parents"
          "songs" : [
-			 "Cocoa"
-            ,"Eggnog"
-            ,"Winter-Horrorland"
+			"Cocoa"
+            "Eggnog"
+            "Winter-Horrorland"
         ]
-    },
+    }
 	{
-		 "name" : "Week 6 | Senpai",
+		 "name" : "Week 6 | Senpai"
          "songs" : [
-             "Senpai"
-            ,"Roses"
-			,"Two-Hearts"
-            ,"Thorns"
+            "Senpai"
+            "Roses"
+			"Two-Hearts"
+            "Thorns"
         ]
-    },
+    }
 	{
-		 "name" : "Week 7 | Annie",
+		 "name" : "Week 7 | Annie"
          "songs" : [
-			 "Good-Enough"
-			,"Lover"
-			,"Tug-of-War"
-			,"Animal"
+			"Good-Enough"
+			"Lover"
+			"Tug-of-War"
+			"Animal"
         ]
-    },
+    }
 	{
-		 "name" : "Week 8 | Dallas",
+		 "name" : "Week 8 | Dallas"
          "songs" : [
-			 "I-Will-Give-You-My-All"
-			,"Break-The-Rules"
-			,"Donacdum"
-			,"It's-Payday"
+			"I-Will-Give-You-My-All"
+			"Break-The-Rules"
+			"Donacdum"
+			"It's-Payday"
         ]
-    },
+    }
 	{
-		 "name" : "Dad's Revenge",
+		 "name" : "Dad's Revenge"
          "songs" : [
-			 "Bopeeboba"
-			,"Fresh-Funk"
-			,"Chadbattle"
+			"Bopeeboba"
+			"Fresh-Funk"
+			"Chadbattle"
         ]
-    },
+    }
 	{
-		 "name" : "Stardust",
+		 "name" : "Stardust"
          "songs" : [
-             "Senpai-SD"
-            ,"Roses-SD"
-			,"Thorns-SD"
+            "Senpai-SD"
+            "Roses-SD"
+			"Thorns-SD"
         ]
-    },
+    }
 	{
-		 "name" : "Vs. Brother",
+		 "name" : "Vs. Brother"
          "songs" : [
-			 "The-Ultimate-Showdown-of-Ultimate-Destiny"
-			,"Brittle-Bones-Nicky"
-			,"Brittle-Bones-Nicky-2"
+			"The-Ultimate-Showdown-of-Ultimate-Destiny"
+			"Brittle-Bones-Nicky"
+			"Brittle-Bones-Nicky-2"
         ]
-    },
+    }
 	{
-		 "name" : "Vs. Tricky",
+		 "name" : "Vs. Tricky"
          "songs" : [
-			 "Improbable-Outset"
-			,"Madness"
-			,"Improbable-Outset+"
-			,"Madness+"
+			"Improbable-Outset"
+			"Madness"
+			"Improbable-Outset+"
+			"Madness+"
         ]
-    },
+    }
 	{
-		"name" : "Vs. Ellectra",
+		"name" : "Vs. Ellectra"
 		"songs" : [
-			 "Date-Night"
-			,"Clean"
-			,"3battle"
-			,"Depart"
+			"Date-Night"
+			"Clean"
+			"3battle"
+			"Depart"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Carol",
+		"name" : "Vs. Carol"
 		"songs" : [
-			 "Carol"
-			,"Body"
-			,"Boogie"
+			"Carol"
+			"Body"
+			"Boogie"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Amogus",
+		"name" : "Vs. Amogus"
 		"songs" : [
-			 "Suspai"
-			,"Rosus"
-			,"Thornsussy"
+			"Suspai"
+			"Rosus"
+			"Thornsussy"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Ridzak",
+		"name" : "Vs. Ridzak"
 		"songs" : [
-			 "Challenger"
-            ,"Ouch"
-            ,"Ego"
+			"Challenger"
+            "Ouch"
+            "Ego"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Flatline",
+		"name" : "Vs. Flatline"
 		"songs" : [
-			 "Groovin4"
-            ,"GetValue"
-            ,"Go-Getter"
+			"Groovin4"
+            "GetValue"
+            "Go-Getter"
 		]
-	},
+	}
 	{
-		"name" : "Vs. John Bomb",
+		"name" : "Vs. John Bomb"
 		"songs" : [
-			 "John-Bomb-Rage"
-            ,"John-Bomb-Rage-(Remix)"
+			"John-Bomb-Rage"
+            "John-Bomb-Rage-(Remix)"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Savant",
+		"name" : "Vs. Savant"
 		"songs" : [
-			 "Alchemist"
-            ,"Melody-Circus"
-            ,"What"
+			"Alchemist"
+            "Melody-Circus"
+            "What"
 		]
-	},
+	}
 	{
-		"name" : "Vs. Lil Nas X",
+		"name" : "Vs. Lil Nas X"
 		"songs" : [
-			 "OTR"
-            ,"HOLIDAY"
-            ,"MONTERO"
+			"OTR"
+            "HOLIDAY"
+            "MONTERO"
 		]
-	},
+	}
 	{
-		 "name" : "Vs. Kapi",
+		 "name" : "Vs. Kapi"
 		 "songs" : [
-			 "Wocky"
-			,"Beathoven"
+			"Wocky"
+			"Beathoven"
 		]
-	},
+	}
 	{
-		 "name" : "...Hell?",
+		 "name" : "Cum Zone"
          "songs" : [
-			 "Aquarium-Park"
-			,"Root-Of-All-Evil"
+			"Welcome-To-The-Cum-Zone"
+			"Heir-To-The-Cum-Throne"
+			"Your-Cum-Won't-Last"
         ]
-    },
-	{
-		 "name" : "Cum Zone",
-         "songs" : [
-			 "Welcome-To-The-Cum-Zone"
-			,"Heir-To-The-Cum-Throne"
-			,"Your-Cum-Won't-Last"
-        ]
-    },
+    }
 ]
