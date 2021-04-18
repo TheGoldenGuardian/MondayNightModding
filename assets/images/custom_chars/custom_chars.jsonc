@@ -507,4 +507,12 @@
     "like": "berzerk",
     "icons": [28,29]
   },
+  "xoxo-pixel": {
+    "like": "bf-pixel",
+    "icons": [21,21]
+  },
+  "captain-falcon": {
+    "like": "dad",
+    "icons": [12,13]
+  },
 }
