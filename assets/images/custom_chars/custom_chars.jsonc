@@ -259,10 +259,6 @@
     "like": "pico",
     "icons": [4,5]
   },
-  "melon": {
-    "like": "pico",
-    "icons": [4,5]
-  },
   "brother": {
     "like": "whitty",
     "icons": [0,1]
@@ -458,5 +454,13 @@
   "monster-festive": {
     "like": "newmonster",
     "icons": [19,20]
-  }
+  },
+  "sans-player": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "kapi": {
+    "like": "dad",
+    "icons": [12,13]
+  },
 }
