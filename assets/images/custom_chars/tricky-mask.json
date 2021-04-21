@@ -1,0 +1,36 @@
+{
+  "animation": {
+    "idle": {
+      "name": "Idle",
+      "loop": true
+    },
+    "singUP": {
+      "name": "Sing Up",
+      "loop": true
+    },
+    "singDOWN": {
+      "name": "Sing Down",
+      "loop": true
+    },
+    "singLEFT": {
+      "name": "Sing Left",
+      "loop": true
+    },
+    "singRIGHT": {
+      "name": "Sing Right",
+      "loop": true
+    }
+  },
+  "offset": {
+    "idle": [0,0],
+    "singUP": [84,20],
+    "singRIGHT": [30,-63],
+    "singLEFT": [190, 30],
+    "singDOWN": [50, -50]
+  },
+  "flipx": false,
+  "enemyOffset": [-250,70],
+  "camOffset": [400,0],
+  "like": "dad",
+  "playAnim": "idle"
+}

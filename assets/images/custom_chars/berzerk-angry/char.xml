@@ -44,7 +44,7 @@
 	<SubTexture name="Berzerk idle dance0007" x="3525" y="759" width="423" height="759" frameX="-3" frameY="-8" frameWidth="429" frameHeight="762"/>
 	<SubTexture name="Berzerk idle dance0008" x="424" y="793" width="419" height="766" frameX="-5" frameY="-1" frameWidth="429" frameHeight="762"/>
 	<SubTexture name="Berzerk idle dance0009" x="424" y="793" width="419" height="766" frameX="-5" frameY="-1" frameWidth="429" frameHeight="762"/>
-	<SubTexture name="Berzerk idle dance0010" x="1788" y="735" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="762"/>
-	<SubTexture name="Berzerk idle dance0011" x="1788" y="735" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="762"/>
+	<SubTexture name="Berzerk idle dance0010" x="1788" y="741" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="762"/>
+	<SubTexture name="Berzerk idle dance0011" x="1788" y="741" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="762"/>
 	<SubTexture name="Berzerk idle dance0012" x="1369" y="730" width="419" height="767" frameX="-6" frameY="0" frameWidth="429" frameHeight="762"/>
 </TextureAtlas>

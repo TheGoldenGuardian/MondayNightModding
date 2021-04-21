@@ -3553,12 +3553,19 @@
                 ]
                 ,"bpm" : 150
                 ,"altAnimNum" : 0
+                ,"duetSectionNotes" : null
                 ,"changeBPM" : false
                 ,"mustHitSection" : true
             }
         ]
+        ,"player2duets" : [
+
+        ]
         ,"isCrossfade" : false
         ,"isHey" : false
+        ,"player1duets" : [
+
+        ]
         ,"cutsceneType" : "none"
         ,"isSpooky" : false
         ,"song" : "Vexed"
@@ -3568,6 +3575,14 @@
 
         ]
         ,"isMoody" : false
+        ,"enemyCamOffset" : [
+             0
+            ,0
+        ]
+        ,"bfCamOffset" : [
+             0
+            ,0
+        ]
         ,"uiType" : "normal"
         ,"needsVoices" : true
         ,"sections" : 0

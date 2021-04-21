@@ -2,10 +2,7 @@
      {
 		 "name" : "Recent Additions"
          "songs" : [
-			"Friday-Night-of-Nights"
-			"Ruler-Of-Everything"
-			"All-Star"
-			"Captain-Falcon"
+			"Funky-Mall"
         ]
     }
 	{
@@ -190,6 +187,14 @@
         ]
     }
 	{
+		 "name" : "Vs. Clown"
+         "songs" : [
+			"Clown-Cash"
+			"Roller-Coaster"
+			"Showtime"
+        ]
+    }
+	{
 		"name" : "Vs. Ellectra"
 		"songs" : [
 			"Date-Night"
@@ -267,6 +272,22 @@
 			"Vexed"
 			"Berserk"
 			"Error"
+		]
+	}
+	{
+		 "name" : "Vs. JTC"
+		 "songs" : [
+			"Funk-Off"
+			"Ping-Pong"
+			"I'm-Blue"
+		]
+	}
+	{
+		 "name" : "Vs. Nova"
+		 "songs" : [
+			"Industrial"
+			"Emotionless"
+			"Supernova"
 		]
 	}
 	{

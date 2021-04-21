@@ -1,7 +1,7 @@
 {
      "song" : {
          "player1" : "grunt"
-        ,"player2" : "little-tricky"
+        ,"player2" : "tricky-mask"
         ,"notes" : [
              {
                  "typeOfSection" : 0
@@ -5448,6 +5448,6 @@
         ,"sections" : 0
         ,"stage" : "madnessLimo"
         ,"bpm" : 200
-        ,"gf" : "nobody"
+        ,"gf" : "tricky-gf"
     }
 }

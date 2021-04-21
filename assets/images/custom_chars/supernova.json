@@ -1,0 +1,38 @@
+{
+  "animation": {
+    "idle": {
+      "name": "Idle",
+      "loop": true
+    },
+    "singUP": {
+      "name": "Up",
+      "loop": true
+    },
+    "singDOWN": {
+      "name": "Down",
+      "loop": true
+    },
+    "singLEFT": {
+      "name": "Left",
+      "loop": true
+    },
+    "singRIGHT": {
+      "name": "Right",
+      "loop": true
+    }
+  },
+  "offset": {
+    "idle": [200,0],
+    "singUP": [200,0],
+    "singRIGHT": [200,0],
+    "singLEFT": [200, -0],
+    "singDOWN": [200, 0]
+  },
+  "flipx": false,
+  "camOffset": [200,0],
+  "like": "nova",
+  "playAnim": "idle"
+  
+ 
+}
+ Due to my incompetence I could'nt be bothered to change the subtexture names of left and right so they are inverted im s o r r y

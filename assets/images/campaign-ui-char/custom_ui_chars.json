@@ -86,5 +86,21 @@
   "savant": {
     "like": "senpai",
     "defaultGraphics": false
+  },
+  "clown": {
+    "like": "pico",
+    "defaultGraphics": false
+  },
+  "berzerk": {
+    "like": "dad",
+    "defaultGraphics": false
+  },
+  "jtc": {
+    "like": "dad",
+    "defaultGraphics": false
+  },
+  "nova": {
+    "like": "dad",
+    "defaultGraphics": false
   }
 }

@@ -1,6 +1,6 @@
 {
   "nobody": {
-    "like": "bf",
+    "like": "dad",
     "icons": [39,39]
   },
   "tankman": {
@@ -515,4 +515,60 @@
     "like": "dad",
     "icons": [12,13]
   },
+  "clown": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "bf-error": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "dadandpico": {
+    "like": "dad",
+    "icons": [0,1]
+  },
+  "deimos": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "grunt-rapper": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "grunt-rapper-christmas": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "sanfriend": {
+    "like": "gf",
+    "icons": [0,1]
+  },
+  "sanfriend-car": {
+    "like": "gf",
+    "icons": [0,1]
+  },
+  "sanfriend-christmas": {
+    "like": "gf",
+    "icons": [0,1]
+  },
+  "tricky-mask": {
+    "like": "tricky-mask",
+    "icons": [0,1]
+  },
+  "tricky": {
+    "like": "tricky",
+    "icons": [2,3]
+  },
+  "jtc": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "nova" : {
+    "like" : "nova"
+	"icons" : [9,10]
+  },
+  "supernova" : {
+    "like" : "supernova"
+	"icons" : [0,1]
+  }
 }

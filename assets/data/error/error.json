@@ -1,6 +1,6 @@
 {
      "song" : {
-         "player1" : "bf"
+         "player1" : "bf-error"
         ,"notes" : [
              {
                  "sectionNotes" : [
@@ -6851,13 +6851,20 @@
                 ]
                 ,"bpm" : 215
                 ,"altAnimNum" : 0
+                ,"duetSectionNotes" : null
                 ,"changeBPM" : false
                 ,"mustHitSection" : true
             }
         ]
         ,"player2" : "berzerk-error"
+        ,"player2duets" : [
+
+        ]
         ,"isCrossfade" : false
         ,"isHey" : false
+        ,"player1duets" : [
+
+        ]
         ,"cutsceneType" : "none"
         ,"isSpooky" : false
         ,"song" : "ERROR"
@@ -6867,6 +6874,14 @@
 
         ]
         ,"isMoody" : false
+        ,"enemyCamOffset" : [
+             0
+            ,0
+        ]
+        ,"bfCamOffset" : [
+             0
+            ,0
+        ]
         ,"uiType" : "normal"
         ,"needsVoices" : true
         ,"sections" : 0

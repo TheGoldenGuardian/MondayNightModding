@@ -8,3 +8,5 @@ paws
 pixelsd
 savant
 ddr
+jtc
+shiny

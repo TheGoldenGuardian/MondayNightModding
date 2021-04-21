@@ -21,6 +21,9 @@
     ["week select", "Alchemist", "Melody-Circus", "What"],
     ["week select", "OTR", "HOLIDAY", "MONTERO"],
 	["week select", "Devoid", "Vexed", "Berserk", "ERROR"],
+	["honk", "Clown-Cash", "Roller-Coaster", "Showtime"],
+	["jtc", "Funk-Off", "Ping-Pong", "I'm-Blue"],
+	["nova", "Industrial", "Emotionless", "Supernova"]
   ],
   "weekNames": [
     "",
@@ -43,7 +46,10 @@
 	"chilling simulator",
 	"",
 	"we got the",
-	"BERZERK"
+	"BERZERK",
+    "Big Top Bop",
+    "",
+	"Nova"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -66,6 +72,9 @@
 	["senpai-sd", "bf", "gf"],
 	["savant", "bf", "gf"],
 	["unknown", "bf", "gf"],
-	["unknown", "bf", "gf"]
+	["berzerk", "bf", "gf"],
+	["clown", "bf", "gf"],
+	["jtc", "bf", "gf"],
+	["nova", "bf", "gf"]
   ]
 }

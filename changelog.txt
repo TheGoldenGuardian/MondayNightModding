@@ -1,1 +1,29 @@
-caught ya peakin' retard
+Songs:
+ + Clown Cash
+ + Roller Coaster
+ + Showtime
+ + Funky Mall
+ + Funk Off
+ + Ping-Pong
+ + I'm Blue
+
+Story:
+ + Vs Clown Week (3 songs)
+ + Vs JTC Week (3 songs)
+
+Engine:
+ + Songs resync better
+ + Fixed vocals restarting at the end of songs
+
+Misc.:
+ + Updated Vs Berzerk
+ + Fixed sprite issues on all of Berzerk's phases
+ + Fixed GF dialogue flipping the text box completely
+ + Added Duet mod
+ + Driftveil City now has Duet
+ + Replaced Little Tricky with the real Tricky
+ + Improbable Outset and Madness feature Deimos and Sanford
+
+Issues:
+ ? I somehow fucking broke story mode tracks with dialogs, they always crash on the second song after you close the dialog box
+ ? Vexed crashes at the end of the song for some fucking reason ragknjtnwnhjyr
