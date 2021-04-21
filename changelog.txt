@@ -6,10 +6,14 @@ Songs:
  + Funk Off
  + Ping-Pong
  + I'm Blue
+ + Industrial
+ + Emotionless
+ + Supernova
 
 Story:
  + Vs Clown Week (3 songs)
  + Vs JTC Week (3 songs)
+ + Vs Nova Week (3 songs)
 
 Engine:
  + Songs resync better
