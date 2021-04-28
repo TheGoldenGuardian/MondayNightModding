@@ -4,6 +4,5 @@
     ,"alwaysDoCutscenes" : false
     ,"allowEditOptions" : true
     ,"useSaveDataMenu" : true
-    ,"skipModifierMenu" : true
-	,"skipSplash" : true
+    ,"skipModifierMenu" : false
 }

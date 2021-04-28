@@ -570,5 +570,37 @@
   "supernova" : {
     "like" : "supernova"
 	"icons" : [0,1]
-  }
+  },
+  "tall-bf": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "tall-pico": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "douchebag": {
+    "like": "parents",
+    "icons": [17,18]
+  },
+  "demoman": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "heavy": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "heavy-christmas": {
+    "like": "bf-christmas",
+    "icons": [0,1]
+  },
+  "jimmy": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "ender": {
+    "like": "dad",
+    "icons": [12,13]
+  },
 }

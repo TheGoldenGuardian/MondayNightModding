@@ -13,7 +13,7 @@
   "heist": "limo"
   "hell": "stage"
   "darkstage": "stage"
-  "nevada": "stage"
+  "purgatory": "stage"
   "mart": "stage"
   "phillyNight": "philly"
   "phillyDay": "philly"
@@ -46,4 +46,6 @@
   "circus": "philly"
   "jtc": "stage"
   "stagenova": "stage"
+  "nevada": "philly"
+  "normalMall": "mall"
 }

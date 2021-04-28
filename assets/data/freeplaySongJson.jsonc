@@ -2,17 +2,26 @@
      {
 		 "name" : "Recent Additions"
          "songs" : [
-			"Funky-Mall"
+			"Beep-Power"
+			"Mr.-Douchebag"
+			"Madness="
+			"Freestyle-Bopeebo"
+			"Commitment"
+			"The-Monarch"
+			"Freestyle-Monster"
+			"Freestyle-Pico"
+			"Freestyle-Philly"
+			"Freestyle-Blammed"
+			"Tutorial-N-Side"
+			"Bopeebo-N-Side"
+			"Ender"
         ]
     }
 	{
-		 "name" : "Custom Tracks"
+		 "name" : "Originals & Remixes"
          "songs" : [
-			"Ultimatum"
-			"Milf-(GlitchxCity-Remix)"
+            "Ultimatum"
 			"Brass"
-			"Lo-Fight-Retrospecter"
-			"Through-the-Beeps-and-Boops"
 			"Senpai's-True-Form"
 			"Primetime"
 			"Starstruck"
@@ -21,13 +30,33 @@
 			"Contracted"
 			"Brotherhood"
 			"Highway"
-			"Shiver-UpSide"
 			"Ugh"
 			"Ingenuity"
 			"Hop-2-It"
+			"Freestyle-Bopeebo"
+			"Commitment"
+			"The-Monarch"
+			"Freestyle-Monster"
+			"Freestyle-Pico"
+			"Freestyle-Philly"
+			"Freestyle-Blammed"
+			
+			"Milf-(GlitchxCity-Remix)"
+			"Lo-Fight-Retrospecter"
+			"Shiver-UpSide"
+        ]
+    }
+	{
+		 "name" : "Mashups & Memes"
+         "songs" : [
+			"Thorned"
+			"Funky-Mall"
+			"Beep-Power"
+			"Mr.-Douchebag"
+			"Madness="
+			"Through-the-Beeps-and-Boops"
             "Bonfire-Revolving"
             "Thornfire"
-			"Thorned"
             "MTC"
 			"Dopamine"
 			"Harder-Better-Faster-Stronger"
@@ -77,6 +106,8 @@
 			"Ruler-of-Everything"
 			"All-Star"
 			"Captain-Falcon"
+			"Beep-Power"
+			"Mr.-Douchebag"
         ]
     }
 	{
