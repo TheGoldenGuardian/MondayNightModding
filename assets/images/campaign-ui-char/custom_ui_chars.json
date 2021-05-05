@@ -102,5 +102,21 @@
   "nova": {
     "like": "dad",
     "defaultGraphics": false
+  },
+  "fns-pico": {
+    "like": "bf",
+    "defaultGraphics": false
+  },
+  "fns-bf": {
+    "like": "gf",
+    "defaultGraphics": false
+  },
+  "fns-nene": {
+    "like": "pico",
+    "defaultGraphics": false
+  },
+  "devourer": {
+    "like": "pico",
+    "defaultGraphics": false
   }
 }

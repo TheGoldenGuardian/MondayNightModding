@@ -2,19 +2,14 @@
      {
 		 "name" : "Recent Additions"
          "songs" : [
-			"Beep-Power"
-			"Mr.-Douchebag"
-			"Madness="
-			"Freestyle-Bopeebo"
-			"Commitment"
-			"The-Monarch"
-			"Freestyle-Monster"
-			"Freestyle-Pico"
-			"Freestyle-Philly"
-			"Freestyle-Blammed"
-			"Tutorial-N-Side"
-			"Bopeebo-N-Side"
-			"Ender"
+			"Lo-Fight-BSide"
+			"Overhead-BSide"
+			"Ballistic-BSide"
+			"Norway"
+			"Breakout"
+			"Wiz"
+			"Freestyle-Fresh"
+			"Freestyle-Dadbattle"
         ]
     }
 	{
@@ -33,13 +28,21 @@
 			"Ugh"
 			"Ingenuity"
 			"Hop-2-It"
+			
 			"Freestyle-Bopeebo"
+			"Freestyle-Fresh"
+			"Freestyle-Dadbattle"
 			"Commitment"
 			"The-Monarch"
 			"Freestyle-Monster"
 			"Freestyle-Pico"
 			"Freestyle-Philly"
 			"Freestyle-Blammed"
+			
+			"Tutorial-N-Side"
+			"Bopeebo-N-Side"
+			
+			"Ender"
 			
 			"Milf-(GlitchxCity-Remix)"
 			"Lo-Fight-Retrospecter"
@@ -106,8 +109,6 @@
 			"Ruler-of-Everything"
 			"All-Star"
 			"Captain-Falcon"
-			"Beep-Power"
-			"Mr.-Douchebag"
         ]
     }
 	{
@@ -319,6 +320,22 @@
 			"Industrial"
 			"Emotionless"
 			"Supernova"
+		]
+	}
+	{
+		 "name" : "Vs. Nene"
+		 "songs" : [
+			"Smooth"
+			"Gossip"
+			"Teen-Suicide"
+		]
+	}
+	{
+		 "name" : "Vs. Devourer of Gods"
+		 "songs" : [
+			"Servants-Of-The-Scourge"
+			"Scourge-Of-The-Universe"
+			"Universal-Collapse"
 		]
 	}
 	{

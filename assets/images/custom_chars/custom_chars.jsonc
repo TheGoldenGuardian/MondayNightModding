@@ -603,4 +603,68 @@
     "like": "dad",
     "icons": [12,13]
   },
+  "pico-bored": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "castle-crashers": {
+    "like": "pico",
+    "icons": [0,1]
+  },
+  "hank-crazy": {
+    "like": "tricky",
+    "icons": [0,1]
+  },
+  "dbd-frank": {
+    "like": "dad",
+    "icons": [12,13]
+  },
+  "dbd-jake": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "dbd-feng": {
+    "like": "gf",
+    "icons": [10,11]
+  },
+  "fns-pico-day": {
+    "like": "fns-pico",
+    "icons": [0,1]
+  },
+  "fns-pico-afternoon": {
+    "like": "fns-pico",
+    "icons": [0,1]
+  },
+  "fns-pico-night": {
+    "like": "fns-pico",
+    "icons": [0,1]
+  },
+  "fns-nene-day": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "fns-nene-afternoon": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "fns-nene-night": {
+    "like": "pico",
+    "icons": [4,5]
+  },
+  "fns-bf-day": {
+    "like": "gf",
+    "icons": [10,11]
+  },
+  "fns-bf-afternoon": {
+    "like": "gf",
+    "icons": [10,11]
+  },
+  "fns-bf-night": {
+    "like": "gf",
+    "icons": [10,11]
+  },
+  "devourer": {
+    "like": "pico",
+    "icons": [4,5]
+  },
 }

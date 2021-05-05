@@ -24,6 +24,8 @@
 	["honk", "Clown-Cash", "Roller-Coaster", "Showtime"],
 	["jtc", "Funk-Off", "Ping-Pong", "I'm-Blue"],
 	["nova", "Industrial", "Emotionless", "Supernova"]
+	["blank", "Smooth", "Gossip", "Teen-Suicide"],
+	["blank", "Servants-Of-The-Scourge", "Scourge-Of-The-Universe", "Universal-Collapse"],
   ],
   "weekNames": [
     "",
@@ -49,7 +51,9 @@
 	"BERZERK",
     "Big Top Bop",
     "",
-	"Nova"
+	"Nova",
+	"Nene's Slumber Party!",
+	"devour this"
   ],
   "characters": [
     ["blank", "bf", "gf"],
@@ -75,6 +79,8 @@
 	["berzerk", "bf", "gf"],
 	["clown", "bf", "gf"],
 	["jtc", "bf", "gf"],
-	["nova", "bf", "gf"]
+	["nova", "bf", "gf"],
+	["fns-nene", "fns-pico", "fns-bf"],
+	["devourer", "bf", "gf"]
   ]
 }
