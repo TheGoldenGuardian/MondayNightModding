@@ -1,28 +1,21 @@
 Songs:
- + Wiz
- + Breakout
- + Norway
- + Lo-Fight BSide
- + Overheard BSide
- + Ballistic BSide
- + Smooth
- + Gossip
- + Teen Suicide
- + Freestyle Fresh
- + Freestyle Dadbattle
- + Servants Of The Scourge
- + Scourge Of The Universe
- + Universal Collapse
+ + Madness (Revine Remix)
+ + Philly (Foodieti Remix)
+ + Fresh (Matt$ Remix)
+ + Future
+ + South (Matt$ Remix)
+ + Blammed (Matt$ Remix)
+ + Dragon
+ + Ms. Mediocre
 
 Story:
- + VS Nene (3 songs)
- + VS Devourer of Gods (3 songs)
+ + 
 
 Engine:
- + Fixed "Stuck in a loop" being untoggleable
+ + 
 
 Misc.:
- = Replaced Knight in Brotherhood with all 4 Castle Crashers
+ = 
 
 Issues:
- ? play madness= again
+ ? 

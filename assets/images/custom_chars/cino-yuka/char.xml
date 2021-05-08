@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momCar.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="0" y="0" width="452" height="594" frameX="-1" frameY="-19" frameWidth="459" frameHeight="613"/>
+	<SubTexture name="Mom Idle0000" x="2728" y="0" width="467" height="811" frameX="0" frameY="-2" frameWidth="479" frameHeight="814"/>
+	<SubTexture name="Mom Left Pose0000" x="1436" y="824" width="564" height="803" frameX="-1" frameY="-7" frameWidth="570" frameHeight="810"/>
+	<SubTexture name="Mom Pose Left0000" x="4883" y="824" width="662" height="762" frameX="0" frameY="0" frameWidth="672" frameHeight="762"/>
+	<SubTexture name="Mom Up Pose0000" x="2666" y="1648" width="455" height="840" frameX="0" frameY="-14" frameWidth="473" frameHeight="861"/>
+</TextureAtlas>

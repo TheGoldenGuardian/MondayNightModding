@@ -667,4 +667,24 @@
     "like": "pico",
     "icons": [4,5]
   },
+  "screenhead": {
+    "like": "spooky",
+    "icons": [2,3]
+  },
+  "cino-pillow": {
+    "like": "dad",
+    "icons": [0,1]
+  },
+  "cino-pico": {
+    "like": "pico",
+    "icons": [0,1]
+  },
+  "cino-duo": {
+    "like": "spooky",
+    "icons": [0,1]
+  },
+  "cino-yuka": {
+    "like": "mom",
+    "icons": [0,1]
+  }
 }
