@@ -686,5 +686,21 @@
   "cino-yuka": {
     "like": "mom",
     "icons": [0,1]
+  },
+  "bf-pu": {
+    "like": "pico",
+    "icons": [0,1]
+  },
+  "bf-scared": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "pico-bf": {
+    "like": "pico",
+    "icons": [0,1]
+  },
+  "chungus": {
+    "like": "dad",
+    "icons": [0,1]
   }
 }
