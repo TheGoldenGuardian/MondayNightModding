@@ -702,5 +702,17 @@
   "chungus": {
     "like": "dad",
     "icons": [0,1]
+  },
+  "bf-reanimated": {
+    "like": "bf",
+    "icons": [0,1]
+  },
+  "cathy": {
+    "like": "gf",
+    "icons": [0,0]
+  },
+  "cathy-car": {
+    "like": "gf-car",
+    "icons": [0,0]
   }
 }
