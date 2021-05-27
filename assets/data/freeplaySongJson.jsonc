@@ -3,9 +3,10 @@
 		 "name" : "Recent Additions"
          "songs" : [
 			"Paint-the-World"
-			"Ms.-Mediocre"
-			"Breakout"
-			"Wiz"
+			"Refresher"
+			"Breaking-Dad"
+			"Legbattle"
+			"Water-Ice-Salt-Aye"
         ]
     }
 	{
@@ -64,6 +65,12 @@
 	{
 		 "name" : "Mashups & Memes"
          "songs" : [
+			"Breaking-Dad"
+			"Legbattle"
+			"Water-Ice-Salt-Aye"
+			"Ms.-Mediocre"
+			"Wiz"
+			"Breakout"
 			"Ugh"
 			"Thorned"
 			"Funky-Mall"
@@ -356,6 +363,21 @@
 			"Servants-Of-The-Scourge"
 			"Scourge-Of-The-Universe"
 			"Universal-Collapse"
+		]
+	}
+	{
+		 "name" : "Vs. Ascii"
+		 "songs" : [
+			"Daisies"
+			"Err0r"
+			"Hard-Drive"
+		]
+	}
+	{
+		 "name" : "Vs. Floyd"
+		 "songs" : [
+			"Cameo"
+			"Commotion"
 		]
 	}
 	{

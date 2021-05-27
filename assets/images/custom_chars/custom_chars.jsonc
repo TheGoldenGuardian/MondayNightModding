@@ -714,5 +714,21 @@
   "cathy-car": {
     "like": "gf-car",
     "icons": [0,0]
-  }
+  },
+  "ascii": {
+    "like": "pico",
+    "icons": [0,1]
+  },
+  "floyd": {
+    "like": "spooky",
+    "icons": [0,1]
+  },
+  "bf-boogie": {
+    "like": "bf-car",
+    "icons": [0,1]
+  },
+  "carlos": {
+    "like": "carlos",
+    "icons": [0,1]
+  },
 }

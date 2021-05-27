@@ -1,2 +1,15 @@
 Songs:
  + Paint the World
+ + Daisies
+ + Err0r
+ + Hard-Drive
+ + Breaking Dad
+ + Legbattle
+ + Ice Water Salt Aye
+ + Cameo
+ + Commotion
+ + Refresher
+
+Story:
+ + Vs. Ascii (3 songs)
+ + Vs. Floyd (2 songs)
