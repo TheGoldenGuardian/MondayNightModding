@@ -3215,7 +3215,7 @@
         ]
         ,"player2" : "carlos"
         ,"isHey" : false
-        ,"cutsceneType" : "templateDialog"
+        ,"cutsceneType" : "dialog"
         ,"isSpooky" : false
         ,"song" : "Refresher"
         ,"validScore" : true
