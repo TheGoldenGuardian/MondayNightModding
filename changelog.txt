@@ -1,15 +1,6 @@
 Songs:
- + Paint the World
- + Daisies
- + Err0r
- + Hard-Drive
- + Breaking Dad
- + Legbattle
- + Ice Water Salt Aye
- + Cameo
- + Commotion
- + Refresher
+ + Bliss
+ + Ivory
 
 Story:
- + Vs. Ascii (3 songs)
- + Vs. Floyd (2 songs)
+ + Vs. Chris (2 songs)
